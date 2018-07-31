@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ACAT>
+  <Abbreviations>
+    <Abbreviation word="AJD" replaceWith="aujourd'hui" mode="Write" />
+    <Abbreviation word="AUJ" replaceWith="aujourd'hui" mode="Write" />
+    <Abbreviation word="ANNIF" replaceWith="anniversaire" mode="Write" />
+	<Abbreviation word="APREM" replaceWith="après-midi" mode="Write" />
+	<Abbreviation word="BB" replaceWith="bébé" mode="Write" />
+	<Abbreviation word="BCP" replaceWith="beaucoup" mode="Write" />
+	<Abbreviation word="BJR" replaceWith="bonjour" mode="Write" />
+	<Abbreviation word="BSR" replaceWith="bonsoir" mode="Write" />
+	<Abbreviation word="BXL" replaceWith="Bruxelles" mode="Write" />
+	<Abbreviation word="CMT" replaceWith="comment" mode="Write" />
+	<Abbreviation word="CV" replaceWith="ça va" mode="Write" />
+	<Abbreviation word="DOCT" replaceWith="docteur" mode="Write" />
+	<Abbreviation word="DSL" replaceWith="désolé" mode="Write" />
+	<Abbreviation word="FB" replaceWith="Facebook" mode="Write" />
+	<Abbreviation word="KDO" replaceWith="cadeau" mode="Write" />
+	<Abbreviation word="LGTPS" replaceWith="longtemps" mode="Write" />
+	<Abbreviation word="MLLE" replaceWith="mademoiselle" mode="Write" />
+	<Abbreviation word="MME" replaceWith="madame" mode="Write" />
+	<Abbreviation word="MR" replaceWith="monsieur" mode="Write" />
+	<Abbreviation word="MSG" replaceWith="message" mode="Write" />
+	<Abbreviation word="MTN" replaceWith="maintenant" mode="Write" />
+	<Abbreviation word="PB" replaceWith="problème" mode="Write" />
+	<Abbreviation word="PCQ" replaceWith="parce que" mode="Write" />
+	<Abbreviation word="PDT" replaceWith="pendant" mode="Write" />
+	<Abbreviation word="PK" replaceWith="pourquoi" mode="Write" />
+	<Abbreviation word="PQ" replaceWith="pourquoi" mode="Write" />
+	<Abbreviation word="QD" replaceWith="quand" mode="Write" />
+	<Abbreviation word="QQCH" replaceWith="quelque chose" mode="Write" />
+	<Abbreviation word="QQN" replaceWith="quelqu'un" mode="Write" />
+	<Abbreviation word="RDV" replaceWith="rendez-vous" mode="Write" />
+	<Abbreviation word="RESTO" replaceWith="restaurant" mode="Write" />
+	<Abbreviation word="SLT" replaceWith="salut" mode="Write" />
+	<Abbreviation word="STP" replaceWith="s'il te plaît" mode="Write" />
+	<Abbreviation word="SVP" replaceWith="s'il vous plaît" mode="Write" />
+	<Abbreviation word="SVT" replaceWith="souvent" mode="Write" />
+	<Abbreviation word="TJR" replaceWith="toujours" mode="Write" />
+	<Abbreviation word="TJS" replaceWith="toujours" mode="Write" />
+	<Abbreviation word="TLM" replaceWith="tout le monde" mode="Write" />
+	<Abbreviation word="TPS" replaceWith="temps" mode="Write" />
+	<Abbreviation word="WE" replaceWith="week-end" mode="Write" />
+	<Abbreviation word="WK" replaceWith="week-end" mode="Write" />
+  </Abbreviations>
+</ACAT>

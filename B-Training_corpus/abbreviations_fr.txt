@@ -1,0 +1,41 @@
+﻿ajd	aujourd'hui
+annif	anniversaire
+aprem	après-midi
+auj	aujourd'hui
+bb	bébé
+bcp	beaucoup
+bjr	bonjour
+bsr	bonsoir
+bxl	Bruxelles
+cmt	comment
+cv	ça va
+doct	docteur
+dsl	désolé
+fb	Facebook
+kdo	cadeau
+lgtps	longtemps
+mlle	mademoiselle
+mme	madame
+mr	monsieur
+msg	message
+mtn	maintenant
+pb	problème
+pcq	parce que
+pdt	pendant
+pk	pourquoi
+pq	pourquoi
+qd	quand
+qqch	quelque chose
+qqn	quelqu'un
+rdv	rendez-vous
+resto	restaurant
+slt	salut
+stp	s'il te plaît
+svp	s'il vous plaît
+svt	souvent
+tjr	toujours
+tjs	toujours
+tlm	tout le monde
+tps	temps
+we	week-end
+wk	week-end
