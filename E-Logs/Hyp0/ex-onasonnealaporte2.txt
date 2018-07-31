@@ -1,0 +1,38 @@
+File to treat : ex-onasonnealaporte1.txt 
+
+on > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+a > 
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 2 
+
+sonné > son
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+à > 
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 2 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+porte > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+========== 
+
+ki : 5
+ks : 6
+ksr : 47.61904761904761 % 
+
+nbre total de lettres economisees : 16
+taux d'economie de saisie : 76.19047619047619 % 
+
+kn : 21
+nbre total de mots : 6
+hit ratio : 100.0 %

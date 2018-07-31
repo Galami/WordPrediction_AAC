@@ -1,0 +1,79 @@
+﻿===> on
+   > 
+de
+la
+et
+le
+les
+===> on
+   > o
+ou
+on
+===> a
+   > 
+peut
+ne
+a
+===> sonné
+   > 
+pu
+vu
+fait
+été
+déjà
+===> sonné
+   > s
+souvent
+su
+souligné
+surtout
+sur
+===> sonné
+   > so
+sous
+son
+soin
+soi
+soutenu
+===> sonné
+   > son
+sont
+sonné
+===> à
+   > 
+le
+pour
+à
+===> la
+   > 
+la
+===> porte
+   > 
+fois
+fin
+suite
+vie
+recherche
+===> porte
+   > p
+première
+place
+politique
+production
+porte
+
+============================
+Keystroke Savings Rate (KSR)
+           ki + ks        
+KSR = (1 - ------- ) * 100
+             kn           
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 8
+ks : 4
+kn : 24
+
+KSR: 50

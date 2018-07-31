@@ -1,0 +1,11462 @@
+===> bonjour
+   > 
+de
+je
+les
+la
+à
+===> bonjour
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> bonjour
+   > bo
+bouche
+bons
+bonne
+bonheur
+bonnes
+===> bonjour
+   > bon
+bonjour
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> verre
+   > 
+de
+je
+les
+la
+à
+===> verre
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> verre
+   > ve
+veut
+veulent
+venir
+veux
+venait
+===> verre
+   > ver
+verbale
+vertébrale
+vertical
+vert
+===> verre
+   > verr
+===> verre
+   > verre
+===> d
+   > 
+de
+je
+les
+la
+à
+===> d
+   > d
+des
+dans
+du
+donc
+deux
+===> eau
+   > 
+de
+je
+les
+la
+à
+===> eau
+   > e
+et
+est
+en
+elle
+eu
+===> eau
+   > ea
+eau
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> vous
+   > 
+de
+je
+les
+la
+à
+===> vous
+   > v
+vie
+vous
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> comment
+   > 
+de
+je
+les
+la
+à
+===> comment
+   > c
+ce
+cela
+car
+cette
+comme
+===> comment
+   > co
+comment
+===> t
+   > 
+de
+je
+les
+la
+à
+===> t
+   > t
+tout
+tous
+très
+toujours
+tu
+===> appelles
+   > 
+de
+je
+les
+la
+à
+===> appelles
+   > a
+ai
+avec
+au
+autres
+avoir
+===> appelles
+   > ap
+après
+appris
+appel
+apprends
+appelle
+===> appelles
+   > app
+appareil
+apprendre
+apporté
+apparence
+appréhension
+===> appelles
+   > appe
+===> appelles
+   > appel
+===> appelles
+   > appell
+===> appelles
+   > appelle
+===> appelles
+   > appelles
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> se
+   > 
+de
+je
+les
+la
+à
+===> se
+   > s
+sur
+sont
+se
+===> sent
+   > 
+de
+je
+les
+la
+à
+===> sent
+   > s
+sur
+sont
+se
+suis
+si
+===> sent
+   > se
+serait
+seulement
+ses
+sens
+selon
+===> sent
+   > sen
+sentir
+sensibiliser
+sent
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> bien
+   > 
+de
+je
+les
+la
+à
+===> bien
+   > b
+beaucoup
+bien
+===> depuis
+   > 
+de
+je
+les
+la
+à
+===> depuis
+   > d
+des
+dans
+du
+donc
+deux
+===> depuis
+   > de
+depuis
+===> ce
+   > 
+de
+je
+les
+la
+à
+===> ce
+   > c
+ce
+===> matin
+   > 
+de
+je
+les
+la
+à
+===> matin
+   > m
+mon
+me
+ma
+moi
+mes
+===> matin
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> matin
+   > mat
+mathématique
+matin
+===> a
+   > 
+de
+je
+les
+la
+à
+===> a
+   > a
+ai
+avec
+au
+autres
+avoir
+===> quelle
+   > 
+de
+je
+les
+la
+à
+===> quelle
+   > q
+que
+qui
+qu
+quand
+quelques
+===> quelle
+   > qu
+quelle
+===> heure
+   > 
+de
+je
+les
+la
+à
+===> heure
+   > h
+handicap
+handicapées
+handicapé
+hui
+handicapés
+===> heure
+   > he
+heureux
+heures
+heureusement
+heurtai
+heure
+===> ferme
+   > 
+de
+je
+les
+la
+à
+===> ferme
+   > f
+faire
+fait
+faut
+famille
+fois
+===> ferme
+   > fe
+fessant
+fessait
+ferait
+femmes
+femme
+===> ferme
+   > fer
+fermé
+fermes
+fermement
+ferme
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> magasin
+   > 
+de
+je
+les
+la
+à
+===> magasin
+   > m
+mon
+me
+ma
+moi
+mes
+===> magasin
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> magasin
+   > mag
+magie
+magiques
+magasins
+magasin
+===> la
+   > 
+de
+je
+les
+la
+===> voiture
+   > 
+de
+je
+les
+la
+à
+===> voiture
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voiture
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voiture
+   > voi
+voient
+voie
+voiturette
+voitures
+voiture
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> démarre
+   > 
+de
+je
+les
+la
+à
+===> démarre
+   > d
+des
+dans
+du
+donc
+deux
+===> démarre
+   > d�
+===> démarre
+   > dé
+début
+découvrir
+décidé
+dépenses
+découvert
+===> démarre
+   > dém
+déménagement
+démarche
+démarches
+démunis
+démontré
+===> démarre
+   > déma
+===> démarre
+   > démar
+===> démarre
+   > démarr
+===> démarre
+   > démarre
+===> plus
+   > 
+de
+je
+les
+la
+à
+===> plus
+   > p
+pour
+pas
+plus
+===> quel
+   > 
+de
+je
+les
+la
+à
+===> quel
+   > q
+que
+qui
+qu
+quand
+quelques
+===> quel
+   > qu
+quelle
+quelque
+quotidien
+quel
+===> temps
+   > 
+de
+je
+les
+la
+à
+===> temps
+   > t
+tout
+tous
+très
+toujours
+tu
+===> temps
+   > te
+temps
+===> fera
+   > 
+de
+je
+les
+la
+à
+===> fera
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fera
+   > fe
+fessant
+fessait
+ferait
+femmes
+femme
+===> fera
+   > fer
+fermé
+fermes
+fermement
+ferme
+===> fera
+   > fera
+===> t
+   > 
+de
+je
+les
+la
+à
+===> t
+   > t
+tout
+tous
+très
+toujours
+tu
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> mercredi
+   > 
+de
+je
+les
+la
+à
+===> mercredi
+   > m
+mon
+me
+ma
+moi
+mes
+===> mercredi
+   > me
+mettre
+merci
+message
+membres
+meilleure
+===> mercredi
+   > mer
+===> mercredi
+   > merc
+===> mercredi
+   > mercr
+===> mercredi
+   > mercre
+===> mercredi
+   > mercred
+===> mercredi
+   > mercredi
+===> fais
+   > 
+de
+je
+les
+la
+à
+===> fais
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fais
+   > fa
+fauteuil
+facile
+façon
+facilement
+fais
+===> attention
+   > 
+de
+je
+les
+la
+à
+===> attention
+   > a
+ai
+avec
+au
+autres
+avoir
+===> attention
+   > at
+atteints
+attends
+atteinte
+atteindre
+athétose
+===> attention
+   > att
+attention
+===> où
+   > 
+de
+je
+les
+la
+à
+===> où
+   > o
+on
+ou
+ont
+où
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> marches
+   > 
+de
+je
+les
+la
+à
+===> marches
+   > m
+mon
+me
+ma
+moi
+mes
+===> marches
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> marches
+   > mar
+marie
+mariage
+marcher
+mardis
+marché
+===> marches
+   > marc
+marche
+===> marches
+   > march
+===> marches
+   > marche
+===> marches
+   > marches
+===> finalement
+   > 
+de
+je
+les
+la
+à
+===> finalement
+   > f
+faire
+fait
+faut
+famille
+fois
+===> finalement
+   > fi
+finalement
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> vais
+   > 
+de
+je
+les
+la
+à
+===> vais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vais
+   > va
+vais
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> y
+   > 
+de
+je
+les
+la
+à
+===> y
+   > y
+yohan
+yeux
+===> aller
+   > 
+de
+je
+les
+la
+à
+===> aller
+   > a
+ai
+avec
+au
+autres
+avoir
+===> aller
+   > al
+aller
+===> je
+   > 
+de
+je
+===> mange
+   > 
+de
+je
+les
+la
+à
+===> mange
+   > m
+mon
+me
+ma
+moi
+mes
+===> mange
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> mange
+   > man
+manière
+manipuler
+manque
+manuel
+manquaient
+===> mange
+   > mang
+manger
+mange
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> fruits
+   > 
+de
+je
+les
+la
+à
+===> fruits
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fruits
+   > fr
+frère
+france
+français
+fréquentes
+fréquenter
+===> fruits
+   > fru
+===> fruits
+   > frui
+===> fruits
+   > fruit
+===> fruits
+   > fruits
+===> tous
+   > 
+de
+je
+les
+la
+à
+===> tous
+   > t
+tout
+tous
+===> les
+   > 
+de
+je
+les
+===> jours
+   > 
+de
+je
+les
+la
+à
+===> jours
+   > j
+jour
+jamais
+jours
+===> cette
+   > 
+de
+je
+les
+la
+à
+===> cette
+   > c
+ce
+cela
+car
+cette
+===> conférence
+   > 
+de
+je
+les
+la
+à
+===> conférence
+   > c
+ce
+cela
+car
+cette
+comme
+===> conférence
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> conférence
+   > con
+concernant
+continuer
+confiance
+contrôler
+contre
+===> conférence
+   > conf
+conférence
+===> était
+   > 
+de
+je
+les
+la
+à
+===> était
+   > �
+===> était
+   > é
+était
+===> très
+   > 
+de
+je
+les
+la
+à
+===> très
+   > t
+tout
+tous
+très
+===> intéressante
+   > 
+de
+je
+les
+la
+à
+===> intéressante
+   > i
+il
+ils
+informatique
+important
+imc
+===> intéressante
+   > in
+intervenantes
+internet
+interventions
+intéressé
+involontaires
+===> intéressante
+   > int
+intervenante
+intéressent
+intéressant
+intégration
+intense
+===> intéressante
+   > int�
+===> intéressante
+   > inté
+intéressé
+intéressent
+intéressant
+intégration
+intéressées
+===> intéressante
+   > intér
+===> intéressante
+   > intére
+===> intéressante
+   > intéres
+===> intéressante
+   > intéress
+===> intéressante
+   > intéressa
+===> intéressante
+   > intéressan
+===> intéressante
+   > intéressant
+===> intéressante
+   > intéressante
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> resterai
+   > 
+de
+je
+les
+la
+à
+===> resterai
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> resterai
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> resterai
+   > res
+rester
+ressenti
+responsable
+restera
+ressources
+===> resterai
+   > rest
+resté
+restes
+restent
+restais
+restai
+===> resterai
+   > reste
+===> resterai
+   > rester
+===> resterai
+   > restera
+===> resterai
+   > resterai
+===> malheureusement
+   > 
+de
+je
+les
+la
+à
+===> malheureusement
+   > m
+mon
+me
+ma
+moi
+mes
+===> malheureusement
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> malheureusement
+   > mal
+malheureusement
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> longtemps
+   > 
+de
+je
+les
+la
+à
+===> longtemps
+   > l
+le
+leur
+livre
+lui
+leurs
+===> longtemps
+   > lo
+lorsque
+loin
+lourd
+lorsqu
+longue
+===> longtemps
+   > lon
+long
+longtemps
+===> aujourd
+   > 
+de
+je
+les
+la
+à
+===> aujourd
+   > a
+ai
+avec
+au
+autres
+avoir
+===> aujourd
+   > au
+aux
+autre
+aussi
+aujourd
+===> hui
+   > 
+de
+je
+les
+la
+à
+===> hui
+   > h
+handicap
+handicapées
+handicapé
+hui
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> connais
+   > 
+de
+je
+les
+la
+à
+===> connais
+   > c
+ce
+cela
+car
+cette
+comme
+===> connais
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> connais
+   > con
+concernant
+continuer
+confiance
+contrôler
+contre
+===> connais
+   > conn
+connaitre
+connaissances
+connaissait
+connais
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> la
+   > 
+de
+je
+les
+la
+===> réponse
+   > 
+de
+je
+les
+la
+à
+===> réponse
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> réponse
+   > r�
+===> réponse
+   > ré
+réaliser
+récemment
+réussite
+réussi
+réunion
+===> réponse
+   > rép
+répondu
+répondre
+répétés
+répéter
+réputation
+===> réponse
+   > répo
+réponse
+===> mais
+   > 
+de
+je
+les
+la
+à
+===> mais
+   > m
+mon
+me
+ma
+moi
+mes
+===> mais
+   > ma
+mais
+===> je
+   > 
+de
+je
+===> vais
+   > 
+de
+je
+les
+la
+à
+===> vais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vais
+   > va
+vais
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> renseigner
+   > 
+de
+je
+les
+la
+à
+===> renseigner
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> renseigner
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> renseigner
+   > ren
+rencontrées
+rencontrés
+rencontres
+rencontrer
+rentrer
+===> renseigner
+   > rens
+===> renseigner
+   > rense
+===> renseigner
+   > rensei
+===> renseigner
+   > renseig
+===> renseigner
+   > renseign
+===> renseigner
+   > renseigne
+===> renseigner
+   > renseigner
+===> comment
+   > 
+de
+je
+les
+la
+à
+===> comment
+   > c
+ce
+cela
+car
+cette
+comme
+===> comment
+   > co
+comment
+===> font
+   > 
+de
+je
+les
+la
+à
+===> font
+   > f
+faire
+fait
+faut
+famille
+fois
+===> font
+   > fo
+font
+===> les
+   > 
+de
+je
+les
+===> dauphins
+   > 
+de
+je
+les
+la
+à
+===> dauphins
+   > d
+des
+dans
+du
+donc
+deux
+===> dauphins
+   > da
+dangereux
+danger
+dame
+===> dauphins
+   > dau
+===> dauphins
+   > daup
+===> dauphins
+   > dauph
+===> dauphins
+   > dauphi
+===> dauphins
+   > dauphin
+===> dauphins
+   > dauphins
+===> pour
+   > 
+de
+je
+les
+la
+à
+===> pour
+   > p
+pour
+===> communiquer
+   > 
+de
+je
+les
+la
+à
+===> communiquer
+   > c
+ce
+cela
+car
+cette
+comme
+===> communiquer
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> communiquer
+   > com
+comprends
+compliqué
+complètement
+compte
+compris
+===> communiquer
+   > comm
+commerçants
+commencé
+communiquer
+===> c
+   > 
+de
+je
+les
+la
+à
+===> c
+   > c
+ce
+cela
+car
+cette
+comme
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> travail
+   > 
+de
+je
+les
+la
+à
+===> travail
+   > t
+tout
+tous
+très
+toujours
+tu
+===> travail
+   > tr
+trouve
+trop
+trouver
+trois
+travers
+===> travail
+   > tra
+travail
+===> de
+   > 
+de
+===> longue
+   > 
+de
+je
+les
+la
+à
+===> longue
+   > l
+le
+leur
+livre
+lui
+leurs
+===> longue
+   > lo
+lorsque
+loin
+lourd
+lorsqu
+longue
+===> haleine
+   > 
+de
+je
+les
+la
+à
+===> haleine
+   > h
+handicap
+handicapées
+handicapé
+hui
+handicapés
+===> haleine
+   > ha
+handicapée
+handisport
+habitude
+handicaps
+habituer
+===> haleine
+   > hal
+===> haleine
+   > hale
+===> haleine
+   > halei
+===> haleine
+   > halein
+===> haleine
+   > haleine
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> vient
+   > 
+de
+je
+les
+la
+à
+===> vient
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vient
+   > vi
+vis
+vision
+vite
+vivent
+village
+===> vient
+   > vie
+vient
+===> seulement
+   > 
+de
+je
+les
+la
+à
+===> seulement
+   > s
+sur
+sont
+se
+suis
+si
+===> seulement
+   > se
+serait
+seulement
+===> d
+   > 
+de
+je
+les
+la
+à
+===> d
+   > d
+des
+dans
+du
+donc
+deux
+===> être
+   > 
+de
+je
+les
+la
+à
+===> être
+   > �
+===> être
+   > ê
+être
+===> mis
+   > 
+de
+je
+les
+la
+à
+===> mis
+   > m
+mon
+me
+ma
+moi
+mes
+===> mis
+   > mi
+mieux
+mis
+===> au
+   > 
+de
+je
+les
+la
+à
+===> au
+   > a
+ai
+avec
+au
+===> courant
+   > 
+de
+je
+les
+la
+à
+===> courant
+   > c
+ce
+cela
+car
+cette
+comme
+===> courant
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> courant
+   > cou
+courage
+coups
+courant
+===> cela
+   > 
+de
+je
+les
+la
+à
+===> cela
+   > c
+ce
+cela
+===> sera
+   > 
+de
+je
+les
+la
+à
+===> sera
+   > s
+sur
+sont
+se
+suis
+si
+===> sera
+   > se
+serait
+seulement
+ses
+sens
+selon
+===> sera
+   > ser
+sera
+===> fait
+   > 
+de
+je
+les
+la
+à
+===> fait
+   > f
+faire
+fait
+===> quand
+   > 
+de
+je
+les
+la
+à
+===> quand
+   > q
+que
+qui
+qu
+quand
+===> les
+   > 
+de
+je
+les
+===> poules
+   > 
+de
+je
+les
+la
+à
+===> poules
+   > p
+pour
+pas
+plus
+personnes
+par
+===> poules
+   > po
+porte
+pouvoir
+pourrait
+point
+possible
+===> poules
+   > pou
+pouvais
+pouvait
+pourrais
+pourra
+pourquoi
+===> poules
+   > poul
+===> poules
+   > poule
+===> poules
+   > poules
+===> auront
+   > 
+de
+je
+les
+la
+à
+===> auront
+   > a
+ai
+avec
+au
+autres
+avoir
+===> auront
+   > au
+aux
+autre
+aussi
+aujourd
+autonomie
+===> auront
+   > aur
+aurait
+aurais
+aura
+auras
+aurez
+===> auront
+   > auro
+auront
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> dents
+   > 
+de
+je
+les
+la
+à
+===> dents
+   > d
+des
+dans
+du
+donc
+deux
+===> dents
+   > de
+depuis
+deuxième
+devais
+demander
+dernier
+===> dents
+   > den
+===> dents
+   > dent
+===> dents
+   > dents
+===> les
+   > 
+de
+je
+les
+===> astres
+   > 
+de
+je
+les
+la
+à
+===> astres
+   > a
+ai
+avec
+au
+autres
+avoir
+===> astres
+   > as
+association
+asphyxie
+assez
+associations
+assistante
+===> astres
+   > ast
+astuces
+astuce
+asthénie
+===> astres
+   > astr
+===> astres
+   > astre
+===> astres
+   > astres
+===> l
+   > 
+de
+je
+les
+la
+à
+===> l
+   > l
+le
+leur
+livre
+lui
+leurs
+===> ont
+   > 
+de
+je
+les
+la
+à
+===> ont
+   > o
+on
+ou
+ont
+===> toujours
+   > 
+de
+je
+les
+la
+à
+===> toujours
+   > t
+tout
+tous
+très
+toujours
+===> fascinée
+   > 
+de
+je
+les
+la
+à
+===> fascinée
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fascinée
+   > fa
+fauteuil
+facile
+façon
+facilement
+fais
+===> fascinée
+   > fas
+fassent
+===> fascinée
+   > fasc
+===> fascinée
+   > fasci
+===> fascinée
+   > fascin
+===> fascinée
+   > fascin�
+===> fascinée
+   > fasciné
+===> fascinée
+   > fascinée
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> travail
+   > 
+de
+je
+les
+la
+à
+===> travail
+   > t
+tout
+tous
+très
+toujours
+tu
+===> travail
+   > tr
+trouve
+trop
+trouver
+trois
+travers
+===> travail
+   > tra
+travail
+===> acharné
+   > 
+de
+je
+les
+la
+à
+===> acharné
+   > a
+ai
+avec
+au
+autres
+avoir
+===> acharné
+   > ac
+accessibilité
+accepté
+accessible
+achat
+accord
+===> acharné
+   > ach
+acheter
+acheté
+achèterai
+achetée
+achetez
+===> acharné
+   > acha
+achats
+===> acharné
+   > achar
+===> acharné
+   > acharn
+===> acharné
+   > acharn�
+===> acharné
+   > acharné
+===> vainc
+   > 
+de
+je
+les
+la
+à
+===> vainc
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vainc
+   > va
+vais
+valide
+valides
+vas
+variable
+===> vainc
+   > vai
+===> vainc
+   > vain
+===> vainc
+   > vainc
+===> tout
+   > 
+de
+je
+les
+la
+à
+===> tout
+   > t
+tout
+===> les
+   > 
+de
+je
+les
+===> petits
+   > 
+de
+je
+les
+la
+à
+===> petits
+   > p
+pour
+pas
+plus
+personnes
+par
+===> petits
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> petits
+   > pet
+petit
+petits
+===> ruisseaux
+   > 
+de
+je
+les
+la
+à
+===> ruisseaux
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> ruisseaux
+   > ru
+rue
+russe
+rupture
+===> ruisseaux
+   > rui
+===> ruisseaux
+   > ruis
+===> ruisseaux
+   > ruiss
+===> ruisseaux
+   > ruisse
+===> ruisseaux
+   > ruissea
+===> ruisseaux
+   > ruisseau
+===> ruisseaux
+   > ruisseaux
+===> font
+   > 
+de
+je
+les
+la
+à
+===> font
+   > f
+faire
+fait
+faut
+famille
+fois
+===> font
+   > fo
+font
+===> les
+   > 
+de
+je
+les
+===> grandes
+   > 
+de
+je
+les
+la
+à
+===> grandes
+   > g
+gens
+grande
+grâce
+grand
+général
+===> grandes
+   > gr
+grands
+grandes
+===> rivières
+   > 
+de
+je
+les
+la
+à
+===> rivières
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> rivières
+   > ri
+rire
+richesse
+rime
+risque
+risible
+===> rivières
+   > riv
+===> rivières
+   > rivi
+===> rivières
+   > rivi�
+===> rivières
+   > riviè
+===> rivières
+   > rivièr
+===> rivières
+   > rivière
+===> rivières
+   > rivières
+===> ce
+   > 
+de
+je
+les
+la
+à
+===> ce
+   > c
+ce
+===> n
+   > 
+de
+je
+les
+la
+à
+===> n
+   > n
+ne
+nous
+notre
+ni
+non
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> grave
+   > 
+de
+je
+les
+la
+à
+===> grave
+   > g
+gens
+grande
+grâce
+grand
+général
+===> grave
+   > gr
+grands
+grandes
+groupe
+gros
+gravement
+===> grave
+   > gra
+grave
+===> d
+   > 
+de
+je
+les
+la
+à
+===> d
+   > d
+des
+dans
+du
+donc
+deux
+===> être
+   > 
+de
+je
+les
+la
+à
+===> être
+   > �
+===> être
+   > ê
+être
+===> en
+   > 
+de
+je
+les
+la
+à
+===> en
+   > e
+et
+est
+en
+===> cage
+   > 
+de
+je
+les
+la
+à
+===> cage
+   > c
+ce
+cela
+car
+cette
+comme
+===> cage
+   > ca
+cause
+cas
+capable
+cadre
+catholique
+===> cage
+   > cag
+===> cage
+   > cage
+===> quand
+   > 
+de
+je
+les
+la
+à
+===> quand
+   > q
+que
+qui
+qu
+quand
+===> on
+   > 
+de
+je
+les
+la
+à
+===> on
+   > o
+on
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> sait
+   > 
+de
+je
+les
+la
+à
+===> sait
+   > s
+sur
+sont
+se
+suis
+si
+===> sait
+   > sa
+sans
+sais
+savoir
+saisie
+samedi
+===> sait
+   > sai
+sait
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> voler
+   > 
+de
+je
+les
+la
+à
+===> voler
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voler
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voler
+   > vol
+volonté
+volontaires
+volume
+volontés
+===> voler
+   > vole
+===> voler
+   > voler
+===> bonjour
+   > 
+de
+je
+les
+la
+à
+===> bonjour
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> bonjour
+   > bo
+bouche
+bons
+bonne
+bonheur
+bonnes
+===> bonjour
+   > bon
+bonjour
+===> je
+   > 
+de
+je
+===> m
+   > 
+de
+je
+les
+la
+à
+===> m
+   > m
+mon
+me
+ma
+moi
+mes
+===> appelle
+   > 
+de
+je
+les
+la
+à
+===> appelle
+   > a
+ai
+avec
+au
+autres
+avoir
+===> appelle
+   > ap
+après
+appris
+appel
+apprends
+appelle
+===> anne
+   > 
+de
+je
+les
+la
+à
+===> anne
+   > a
+ai
+avec
+au
+autres
+avoir
+===> anne
+   > an
+ans
+année
+années
+anomalies
+analyser
+===> anne
+   > ann
+annoncé
+annonces
+annoncer
+===> anne
+   > anne
+===> je
+   > 
+de
+je
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> demande
+   > 
+de
+je
+les
+la
+à
+===> demande
+   > d
+des
+dans
+du
+donc
+deux
+===> demande
+   > de
+depuis
+deuxième
+devais
+demander
+dernier
+===> demande
+   > dem
+demandé
+demande
+===> où
+   > 
+de
+je
+les
+la
+à
+===> où
+   > o
+on
+ou
+ont
+où
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> se
+   > 
+de
+je
+les
+la
+à
+===> se
+   > s
+sur
+sont
+se
+===> trouve
+   > 
+de
+je
+les
+la
+à
+===> trouve
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trouve
+   > tr
+trouve
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> trouve
+   > 
+de
+je
+les
+la
+à
+===> trouve
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trouve
+   > tr
+trouve
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> la
+   > 
+de
+je
+les
+la
+===> touche
+   > 
+de
+je
+les
+la
+à
+===> touche
+   > t
+tout
+tous
+très
+toujours
+tu
+===> touche
+   > to
+ton
+toutes
+toute
+totalement
+tomber
+===> touche
+   > tou
+tour
+touche
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> faut
+   > 
+de
+je
+les
+la
+à
+===> faut
+   > f
+faire
+fait
+faut
+===> travailler
+   > 
+de
+je
+les
+la
+à
+===> travailler
+   > t
+tout
+tous
+très
+toujours
+tu
+===> travailler
+   > tr
+trouve
+trop
+trouver
+trois
+travers
+===> travailler
+   > tra
+travail
+travaux
+travaille
+traumatisme
+train
+===> travailler
+   > trav
+travailler
+===> tous
+   > 
+de
+je
+les
+la
+à
+===> tous
+   > t
+tout
+tous
+===> les
+   > 
+de
+je
+les
+===> jours
+   > 
+de
+je
+les
+la
+à
+===> jours
+   > j
+jour
+jamais
+jours
+===> beaucoup
+   > 
+de
+je
+les
+la
+à
+===> beaucoup
+   > b
+beaucoup
+===> pour
+   > 
+de
+je
+les
+la
+à
+===> pour
+   > p
+pour
+===> y
+   > 
+de
+je
+les
+la
+à
+===> y
+   > y
+yohan
+yeux
+===> arriver
+   > 
+de
+je
+les
+la
+à
+===> arriver
+   > a
+ai
+avec
+au
+autres
+avoir
+===> arriver
+   > ar
+arriver
+===> j
+   > 
+de
+je
+les
+la
+à
+===> j
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> ai
+   > 
+de
+je
+les
+la
+à
+===> ai
+   > a
+ai
+===> été
+   > 
+de
+je
+les
+la
+à
+===> été
+   > �
+===> été
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> été
+   > ét
+été
+===> heureuse
+   > 
+de
+je
+les
+la
+à
+===> heureuse
+   > h
+handicap
+handicapées
+handicapé
+hui
+handicapés
+===> heureuse
+   > he
+heureux
+heures
+heureusement
+heurtai
+heure
+===> heureuse
+   > heu
+===> heureuse
+   > heur
+===> heureuse
+   > heure
+===> heureuse
+   > heureu
+===> heureuse
+   > heureus
+===> heureuse
+   > heureuse
+===> de
+   > 
+de
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> revoir
+   > 
+de
+je
+les
+la
+à
+===> revoir
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> revoir
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> revoir
+   > rev
+revoir
+===> au
+   > 
+de
+je
+les
+la
+à
+===> au
+   > a
+ai
+avec
+au
+===> stand
+   > 
+de
+je
+les
+la
+à
+===> stand
+   > s
+sur
+sont
+se
+suis
+si
+===> stand
+   > st
+structure
+stress
+stürge
+stylo
+style
+===> stand
+   > sta
+stage
+===> stand
+   > stan
+===> stand
+   > stand
+===> de
+   > 
+de
+===> l
+   > 
+de
+je
+les
+la
+à
+===> l
+   > l
+le
+leur
+livre
+lui
+leurs
+===> autisme
+   > 
+de
+je
+les
+la
+à
+===> autisme
+   > a
+ai
+avec
+au
+autres
+avoir
+===> autisme
+   > au
+aux
+autre
+aussi
+aujourd
+autonomie
+===> autisme
+   > aut
+autobiographie
+autrui
+autour
+autonome
+automatique
+===> autisme
+   > auti
+===> autisme
+   > autis
+===> autisme
+   > autism
+===> autisme
+   > autisme
+===> à
+   > 
+de
+je
+les
+la
+à
+===> bruxelles
+   > 
+de
+je
+les
+la
+à
+===> bruxelles
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> bruxelles
+   > br
+bras
+bruxelles
+===> pourquoi
+   > 
+de
+je
+les
+la
+à
+===> pourquoi
+   > p
+pour
+pas
+plus
+personnes
+par
+===> pourquoi
+   > po
+porte
+pouvoir
+pourrait
+point
+possible
+===> pourquoi
+   > pou
+pouvais
+pouvait
+pourrais
+pourra
+pourquoi
+===> fait
+   > 
+de
+je
+les
+la
+à
+===> fait
+   > f
+faire
+fait
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> toujours
+   > 
+de
+je
+les
+la
+à
+===> toujours
+   > t
+tout
+tous
+très
+toujours
+===> si
+   > 
+de
+je
+les
+la
+à
+===> si
+   > s
+sur
+sont
+se
+suis
+si
+===> froid
+   > 
+de
+je
+les
+la
+à
+===> froid
+   > f
+faire
+fait
+faut
+famille
+fois
+===> froid
+   > fr
+frère
+france
+français
+fréquentes
+fréquenter
+===> froid
+   > fro
+frontière
+===> froid
+   > froi
+===> froid
+   > froid
+===> en
+   > 
+de
+je
+les
+la
+à
+===> en
+   > e
+et
+est
+en
+===> belgique
+   > 
+de
+je
+les
+la
+à
+===> belgique
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> belgique
+   > be
+belle
+besoins
+besoin
+belgique
+===> pars
+   > 
+de
+je
+les
+la
+à
+===> pars
+   > p
+pour
+pas
+plus
+personnes
+par
+===> pars
+   > pa
+parents
+passé
+passer
+parcours
+parle
+===> pars
+   > par
+part
+partie
+parler
+partager
+parfois
+===> pars
+   > pars
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> en
+   > 
+de
+je
+les
+la
+à
+===> en
+   > e
+et
+est
+en
+===> vacances
+   > 
+de
+je
+les
+la
+à
+===> vacances
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vacances
+   > va
+vais
+valide
+valides
+vas
+variable
+===> vacances
+   > vac
+===> vacances
+   > vaca
+===> vacances
+   > vacan
+===> vacances
+   > vacanc
+===> vacances
+   > vacance
+===> vacances
+   > vacances
+===> cet
+   > 
+de
+je
+les
+la
+à
+===> cet
+   > c
+ce
+cela
+car
+cette
+comme
+===> cet
+   > ce
+ces
+cependant
+ceux
+cet
+===> été
+   > 
+de
+je
+les
+la
+à
+===> été
+   > �
+===> été
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> été
+   > ét
+été
+===> quand
+   > 
+de
+je
+les
+la
+à
+===> quand
+   > q
+que
+qui
+qu
+quand
+===> nous
+   > 
+de
+je
+les
+la
+à
+===> nous
+   > n
+ne
+nous
+===> rencontrons
+   > 
+de
+je
+les
+la
+à
+===> rencontrons
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> rencontrons
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> rencontrons
+   > ren
+rencontrées
+rencontrés
+rencontres
+rencontrer
+rentrer
+===> rencontrons
+   > renc
+rencontrez
+rencontre
+===> rencontrons
+   > renco
+===> rencontrons
+   > rencon
+===> rencontrons
+   > rencont
+===> rencontrons
+   > rencontr
+===> rencontrons
+   > rencontro
+===> rencontrons
+   > rencontron
+===> rencontrons
+   > rencontrons
+===> nous
+   > 
+de
+je
+les
+la
+à
+===> nous
+   > n
+ne
+nous
+===> pour
+   > 
+de
+je
+les
+la
+à
+===> pour
+   > p
+pour
+===> faire
+   > 
+de
+je
+les
+la
+à
+===> faire
+   > f
+faire
+===> l
+   > 
+de
+je
+les
+la
+à
+===> l
+   > l
+le
+leur
+livre
+lui
+leurs
+===> évaluation
+   > 
+de
+je
+les
+la
+à
+===> évaluation
+   > �
+===> évaluation
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> évaluation
+   > év
+éventuellement
+événements
+évolutives
+évolutifs
+évitez
+===> évaluation
+   > éva
+évanouit
+évaluer
+===> évaluation
+   > éval
+===> évaluation
+   > évalu
+===> évaluation
+   > évalua
+===> évaluation
+   > évaluat
+===> évaluation
+   > évaluati
+===> évaluation
+   > évaluatio
+===> évaluation
+   > évaluation
+===> comment
+   > 
+de
+je
+les
+la
+à
+===> comment
+   > c
+ce
+cela
+car
+cette
+comme
+===> comment
+   > co
+comment
+===> discuter
+   > 
+de
+je
+les
+la
+à
+===> discuter
+   > d
+des
+dans
+du
+donc
+deux
+===> discuter
+   > di
+dire
+dit
+difficultés
+disent
+différence
+===> discuter
+   > dis
+disant
+disait
+distance
+disparait
+disparaissent
+===> discuter
+   > disc
+discuter
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> problèmes
+   > 
+de
+je
+les
+la
+à
+===> problèmes
+   > p
+pour
+pas
+plus
+personnes
+par
+===> problèmes
+   > pr
+problèmes
+===> sans
+   > 
+de
+je
+les
+la
+à
+===> sans
+   > s
+sur
+sont
+se
+suis
+si
+===> sans
+   > sa
+sans
+===> se
+   > 
+de
+je
+les
+la
+à
+===> se
+   > s
+sur
+sont
+se
+===> fâcher
+   > 
+de
+je
+les
+la
+à
+===> fâcher
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fâcher
+   > f�
+===> fâcher
+   > fâ
+===> fâcher
+   > fâc
+===> fâcher
+   > fâch
+===> fâcher
+   > fâche
+===> fâcher
+   > fâcher
+===> qu
+   > 
+de
+je
+les
+la
+à
+===> qu
+   > q
+que
+qui
+qu
+===> avez
+   > 
+de
+je
+les
+la
+à
+===> avez
+   > a
+ai
+avec
+au
+autres
+avoir
+===> avez
+   > av
+avais
+avant
+avait
+avs
+avaient
+===> avez
+   > ave
+avenir
+avez
+===> vous
+   > 
+de
+je
+les
+la
+à
+===> vous
+   > v
+vie
+vous
+===> envie
+   > 
+de
+je
+les
+la
+à
+===> envie
+   > e
+et
+est
+en
+elle
+eu
+===> envie
+   > en
+encore
+enfants
+enfant
+envers
+entre
+===> envie
+   > env
+environ
+envies
+envie
+===> de
+   > 
+de
+===> manger
+   > 
+de
+je
+les
+la
+à
+===> manger
+   > m
+mon
+me
+ma
+moi
+mes
+===> manger
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> manger
+   > man
+manière
+manipuler
+manque
+manuel
+manquaient
+===> manger
+   > mang
+manger
+===> et
+   > 
+de
+je
+les
+la
+à
+===> et
+   > e
+et
+===> de
+   > 
+de
+===> boire
+   > 
+de
+je
+les
+la
+à
+===> boire
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> boire
+   > bo
+bouche
+bons
+bonne
+bonheur
+bonnes
+===> boire
+   > boi
+boite
+boisson
+boissière
+boire
+===> tous
+   > 
+de
+je
+les
+la
+à
+===> tous
+   > t
+tout
+tous
+===> les
+   > 
+de
+je
+les
+===> lundis
+   > 
+de
+je
+les
+la
+à
+===> lundis
+   > l
+le
+leur
+livre
+lui
+leurs
+===> lundis
+   > lu
+lumière
+lumineuse
+===> lundis
+   > lun
+===> lundis
+   > lund
+===> lundis
+   > lundi
+===> lundis
+   > lundis
+===> je
+   > 
+de
+je
+===> vais
+   > 
+de
+je
+les
+la
+à
+===> vais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vais
+   > va
+vais
+===> nager
+   > 
+de
+je
+les
+la
+à
+===> nager
+   > n
+ne
+nous
+notre
+ni
+non
+===> nager
+   > na
+naissance
+naturellement
+naturel
+nature
+nageurs
+===> nager
+   > nag
+===> nager
+   > nage
+===> nager
+   > nager
+===> faire
+   > 
+de
+je
+les
+la
+à
+===> faire
+   > f
+faire
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> bon
+   > 
+de
+je
+les
+la
+à
+===> bon
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> choix
+   > 
+de
+je
+les
+la
+à
+===> choix
+   > c
+ce
+cela
+car
+cette
+comme
+===> choix
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> choix
+   > cho
+choisir
+choix
+===> n
+   > 
+de
+je
+les
+la
+à
+===> n
+   > n
+ne
+nous
+notre
+ni
+non
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> facile
+   > 
+de
+je
+les
+la
+à
+===> facile
+   > f
+faire
+fait
+faut
+famille
+fois
+===> facile
+   > fa
+fauteuil
+facile
+===> elles
+   > 
+de
+je
+les
+la
+à
+===> elles
+   > e
+et
+est
+en
+elle
+eu
+===> elles
+   > el
+elles
+===> ont
+   > 
+de
+je
+les
+la
+à
+===> ont
+   > o
+on
+ou
+ont
+===> vu
+   > 
+de
+je
+les
+la
+à
+===> vu
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vu
+   > vu
+vue
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> beau
+   > 
+de
+je
+les
+la
+à
+===> beau
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> beau
+   > be
+belle
+besoins
+besoin
+belgique
+beau
+===> film
+   > 
+de
+je
+les
+la
+à
+===> film
+   > f
+faire
+fait
+faut
+famille
+fois
+===> film
+   > fi
+finalement
+finir
+financements
+final
+fin
+===> film
+   > fil
+fils
+film
+===> sur
+   > 
+de
+je
+les
+la
+à
+===> sur
+   > s
+sur
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> handicap
+   > 
+de
+je
+les
+la
+à
+===> handicap
+   > h
+handicap
+===> nous
+   > 
+de
+je
+les
+la
+à
+===> nous
+   > n
+ne
+nous
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> sommes
+   > 
+de
+je
+les
+la
+à
+===> sommes
+   > s
+sur
+sont
+se
+suis
+si
+===> sommes
+   > so
+son
+souvent
+société
+soit
+sociale
+===> sommes
+   > som
+sommes
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> d
+   > 
+de
+je
+les
+la
+à
+===> d
+   > d
+des
+dans
+du
+donc
+deux
+===> accord
+   > 
+de
+je
+les
+la
+à
+===> accord
+   > a
+ai
+avec
+au
+autres
+avoir
+===> accord
+   > ac
+accessibilité
+accepté
+accessible
+achat
+accord
+===> avec
+   > 
+de
+je
+les
+la
+à
+===> avec
+   > a
+ai
+avec
+===> ton
+   > 
+de
+je
+les
+la
+à
+===> ton
+   > t
+tout
+tous
+très
+toujours
+tu
+===> ton
+   > to
+ton
+===> point
+   > 
+de
+je
+les
+la
+à
+===> point
+   > p
+pour
+pas
+plus
+personnes
+par
+===> point
+   > po
+porte
+pouvoir
+pourrait
+point
+===> de
+   > 
+de
+===> vue
+   > 
+de
+je
+les
+la
+à
+===> vue
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vue
+   > vu
+vue
+===> j
+   > 
+de
+je
+les
+la
+à
+===> j
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> ai
+   > 
+de
+je
+les
+la
+à
+===> ai
+   > a
+ai
+===> mal
+   > 
+de
+je
+les
+la
+à
+===> mal
+   > m
+mon
+me
+ma
+moi
+mes
+===> mal
+   > ma
+mais
+maison
+malgré
+mal
+===> au
+   > 
+de
+je
+les
+la
+à
+===> au
+   > a
+ai
+avec
+au
+===> ventre
+   > 
+de
+je
+les
+la
+à
+===> ventre
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> ventre
+   > ve
+veut
+veulent
+venir
+veux
+venait
+===> ventre
+   > ven
+vende
+venue
+venu
+ventre
+===> je
+   > 
+de
+je
+===> voudrais
+   > 
+de
+je
+les
+la
+à
+===> voudrais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voudrais
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voudrais
+   > vou
+voulait
+voulu
+voulue
+===> voudrais
+   > voud
+===> voudrais
+   > voudr
+===> voudrais
+   > voudra
+===> voudrais
+   > voudrai
+===> voudrais
+   > voudrais
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> médicament
+   > 
+de
+je
+les
+la
+à
+===> médicament
+   > m
+mon
+me
+ma
+moi
+mes
+===> médicament
+   > m�
+===> médicament
+   > mé
+médecin
+méthode
+méningite
+méfiance
+méthodes
+===> médicament
+   > méd
+médias
+===> médicament
+   > médi
+===> médicament
+   > médic
+===> médicament
+   > médica
+===> médicament
+   > médicam
+===> médicament
+   > médicame
+===> médicament
+   > médicamen
+===> médicament
+   > médicament
+===> la
+   > 
+de
+je
+les
+la
+===> douleur
+   > 
+de
+je
+les
+la
+à
+===> douleur
+   > d
+des
+dans
+du
+donc
+deux
+===> douleur
+   > do
+domaine
+donner
+doivent
+doit
+dois
+===> douleur
+   > dou
+douloureux
+doucement
+douleur
+===> nous
+   > 
+de
+je
+les
+la
+à
+===> nous
+   > n
+ne
+nous
+===> allons
+   > 
+de
+je
+les
+la
+à
+===> allons
+   > a
+ai
+avec
+au
+autres
+avoir
+===> allons
+   > al
+aller
+alors
+allait
+allais
+allons
+===> visiter
+   > 
+de
+je
+les
+la
+à
+===> visiter
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> visiter
+   > vi
+vis
+vision
+vite
+vivent
+village
+===> visiter
+   > vis
+visuels
+visité
+visite
+visitai
+visage
+===> visiter
+   > visi
+===> visiter
+   > visit
+===> visiter
+   > visite
+===> visiter
+   > visiter
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> musée
+   > 
+de
+je
+les
+la
+à
+===> musée
+   > m
+mon
+me
+ma
+moi
+mes
+===> musée
+   > mu
+musculaire
+musique
+muscles
+murir
+muet
+===> musée
+   > mus
+musulmane
+musculaires
+===> musée
+   > mus�
+===> musée
+   > musé
+===> musée
+   > musée
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> baleines
+   > 
+de
+je
+les
+la
+à
+===> baleines
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> baleines
+   > ba
+battre
+battant
+bas
+ballon
+batterie
+===> baleines
+   > bal
+balle
+===> baleines
+   > bale
+===> baleines
+   > balei
+===> baleines
+   > balein
+===> baleines
+   > baleine
+===> baleines
+   > baleines
+===> je
+   > 
+de
+je
+===> voudrais
+   > 
+de
+je
+les
+la
+à
+===> voudrais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voudrais
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voudrais
+   > vou
+voulait
+voulu
+voulue
+===> voudrais
+   > voud
+===> voudrais
+   > voudr
+===> voudrais
+   > voudra
+===> voudrais
+   > voudrai
+===> voudrais
+   > voudrais
+===> pouvoir
+   > 
+de
+je
+les
+la
+à
+===> pouvoir
+   > p
+pour
+pas
+plus
+personnes
+par
+===> pouvoir
+   > po
+porte
+pouvoir
+===> découvrir
+   > 
+de
+je
+les
+la
+à
+===> découvrir
+   > d
+des
+dans
+du
+donc
+deux
+===> découvrir
+   > d�
+===> découvrir
+   > dé
+début
+découvrir
+===> l
+   > 
+de
+je
+les
+la
+à
+===> l
+   > l
+le
+leur
+livre
+lui
+leurs
+===> australie
+   > 
+de
+je
+les
+la
+à
+===> australie
+   > a
+ai
+avec
+au
+autres
+avoir
+===> australie
+   > au
+aux
+autre
+aussi
+aujourd
+autonomie
+===> australie
+   > aus
+aussitôt
+===> australie
+   > aust
+===> australie
+   > austr
+===> australie
+   > austra
+===> australie
+   > austral
+===> australie
+   > australi
+===> australie
+   > australie
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> dois
+   > 
+de
+je
+les
+la
+à
+===> dois
+   > d
+des
+dans
+du
+donc
+deux
+===> dois
+   > do
+domaine
+donner
+doivent
+doit
+dois
+===> choisir
+   > 
+de
+je
+les
+la
+à
+===> choisir
+   > c
+ce
+cela
+car
+cette
+comme
+===> choisir
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> choisir
+   > cho
+choisir
+===> et
+   > 
+de
+je
+les
+la
+à
+===> et
+   > e
+et
+===> acheter
+   > 
+de
+je
+les
+la
+à
+===> acheter
+   > a
+ai
+avec
+au
+autres
+avoir
+===> acheter
+   > ac
+accessibilité
+accepté
+accessible
+achat
+accord
+===> acheter
+   > ach
+acheter
+===> une
+   > 
+de
+je
+les
+la
+à
+===> une
+   > u
+une
+===> nouvelle
+   > 
+de
+je
+les
+la
+à
+===> nouvelle
+   > n
+ne
+nous
+notre
+ni
+non
+===> nouvelle
+   > no
+nouvelles
+nos
+normale
+nouveau
+nouvelle
+===> voiture
+   > 
+de
+je
+les
+la
+à
+===> voiture
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voiture
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voiture
+   > voi
+voient
+voie
+voiturette
+voitures
+voiture
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> printemps
+   > 
+de
+je
+les
+la
+à
+===> printemps
+   > p
+pour
+pas
+plus
+personnes
+par
+===> printemps
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> printemps
+   > pri
+pris
+prix
+prise
+primaire
+privés
+===> printemps
+   > prin
+principe
+principes
+===> printemps
+   > print
+===> printemps
+   > printe
+===> printemps
+   > printem
+===> printemps
+   > printemp
+===> printemps
+   > printemps
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> ma
+   > 
+de
+je
+les
+la
+à
+===> ma
+   > m
+mon
+me
+ma
+===> saison
+   > 
+de
+je
+les
+la
+à
+===> saison
+   > s
+sur
+sont
+se
+suis
+si
+===> saison
+   > sa
+sans
+sais
+savoir
+saisie
+samedi
+===> saison
+   > sai
+sait
+saisir
+===> saison
+   > sais
+===> saison
+   > saiso
+===> saison
+   > saison
+===> préférée
+   > 
+de
+je
+les
+la
+à
+===> préférée
+   > p
+pour
+pas
+plus
+personnes
+par
+===> préférée
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> préférée
+   > pr�
+===> préférée
+   > pré
+présent
+présenter
+présente
+présentant
+présentent
+===> préférée
+   > préf
+préfère
+===> préférée
+   > préf�
+===> préférée
+   > préfé
+===> préférée
+   > préfér
+===> préférée
+   > préfér�
+===> préférée
+   > préféré
+===> préférée
+   > préférée
+===> n
+   > 
+de
+je
+les
+la
+à
+===> n
+   > n
+ne
+nous
+notre
+ni
+non
+===> oublie
+   > 
+de
+je
+les
+la
+à
+===> oublie
+   > o
+on
+ou
+ont
+où
+ordinateur
+===> oublie
+   > ou
+oublier
+ouvrir
+ouvert
+outil
+ouvre
+===> oublie
+   > oub
+oublie
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> de
+   > 
+de
+===> bien
+   > 
+de
+je
+les
+la
+à
+===> bien
+   > b
+beaucoup
+bien
+===> ranger
+   > 
+de
+je
+les
+la
+à
+===> ranger
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> ranger
+   > ra
+raisons
+raison
+rapidement
+rapport
+raconte
+===> ranger
+   > ran
+rancœur
+===> ranger
+   > rang
+===> ranger
+   > range
+===> ranger
+   > ranger
+===> ta
+   > 
+de
+je
+les
+la
+à
+===> ta
+   > t
+tout
+tous
+très
+toujours
+tu
+===> ta
+   > ta
+tabou
+tard
+tay
+taux
+tas
+===> chambre
+   > 
+de
+je
+les
+la
+à
+===> chambre
+   > c
+ce
+cela
+car
+cette
+comme
+===> chambre
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chambre
+   > cha
+changer
+chacun
+changé
+charge
+changement
+===> chambre
+   > cham
+===> chambre
+   > chamb
+===> chambre
+   > chambr
+===> chambre
+   > chambre
+===> avant
+   > 
+de
+je
+les
+la
+à
+===> avant
+   > a
+ai
+avec
+au
+autres
+avoir
+===> avant
+   > av
+avais
+avant
+===> de
+   > 
+de
+===> partir
+   > 
+de
+je
+les
+la
+à
+===> partir
+   > p
+pour
+pas
+plus
+personnes
+par
+===> partir
+   > pa
+parents
+passé
+passer
+parcours
+parle
+===> partir
+   > par
+part
+partie
+parler
+partager
+parfois
+===> partir
+   > part
+partir
+===> approche
+   > 
+de
+je
+les
+la
+à
+===> approche
+   > a
+ai
+avec
+au
+autres
+avoir
+===> approche
+   > ap
+après
+appris
+appel
+apprends
+appelle
+===> approche
+   > app
+appareil
+apprendre
+apporté
+apparence
+appréhension
+===> approche
+   > appr
+appropriées
+approfondir
+apprennent
+apprenais
+===> approche
+   > appro
+===> approche
+   > approc
+===> approche
+   > approch
+===> approche
+   > approche
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> fauteuil
+   > 
+de
+je
+les
+la
+à
+===> fauteuil
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fauteuil
+   > fa
+fauteuil
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> je
+   > 
+de
+je
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> boire
+   > 
+de
+je
+les
+la
+à
+===> boire
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> boire
+   > bo
+bouche
+bons
+bonne
+bonheur
+bonnes
+===> boire
+   > boi
+boite
+boisson
+boissière
+boire
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> ca
+   > 
+de
+je
+les
+la
+à
+===> ca
+   > c
+ce
+cela
+car
+cette
+comme
+===> ca
+   > ca
+cause
+cas
+capable
+cadre
+catholique
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> gratte
+   > 
+de
+je
+les
+la
+à
+===> gratte
+   > g
+gens
+grande
+grâce
+grand
+général
+===> gratte
+   > gr
+grands
+grandes
+groupe
+gros
+gravement
+===> gratte
+   > gra
+grave
+grandir
+gravure
+gravité
+graves
+===> gratte
+   > grat
+gratuitement
+===> gratte
+   > gratt
+===> gratte
+   > gratte
+===> j
+   > 
+de
+je
+les
+la
+à
+===> j
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> ai
+   > 
+de
+je
+les
+la
+à
+===> ai
+   > a
+ai
+===> chaud
+   > 
+de
+je
+les
+la
+à
+===> chaud
+   > c
+ce
+cela
+car
+cette
+comme
+===> chaud
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chaud
+   > cha
+changer
+chacun
+changé
+charge
+changement
+===> chaud
+   > chau
+chauffeurs
+===> chaud
+   > chaud
+===> j
+   > 
+de
+je
+les
+la
+à
+===> j
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> ai
+   > 
+de
+je
+les
+la
+à
+===> ai
+   > a
+ai
+===> froid
+   > 
+de
+je
+les
+la
+à
+===> froid
+   > f
+faire
+fait
+faut
+famille
+fois
+===> froid
+   > fr
+frère
+france
+français
+fréquentes
+fréquenter
+===> froid
+   > fro
+frontière
+===> froid
+   > froi
+===> froid
+   > froid
+===> j
+   > 
+de
+je
+les
+la
+à
+===> j
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> ai
+   > 
+de
+je
+les
+la
+à
+===> ai
+   > a
+ai
+===> mal
+   > 
+de
+je
+les
+la
+à
+===> mal
+   > m
+mon
+me
+ma
+moi
+mes
+===> mal
+   > ma
+mais
+maison
+malgré
+mal
+===> je
+   > 
+de
+je
+===> suis
+   > 
+de
+je
+les
+la
+à
+===> suis
+   > s
+sur
+sont
+se
+suis
+===> fatigué
+   > 
+de
+je
+les
+la
+à
+===> fatigué
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fatigué
+   > fa
+fauteuil
+facile
+façon
+facilement
+fais
+===> fatigué
+   > fat
+===> fatigué
+   > fati
+===> fatigué
+   > fatig
+===> fatigué
+   > fatigu
+===> fatigué
+   > fatigu�
+===> fatigué
+   > fatigué
+===> je
+   > 
+de
+je
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> dormir
+   > 
+de
+je
+les
+la
+à
+===> dormir
+   > d
+des
+dans
+du
+donc
+deux
+===> dormir
+   > do
+domaine
+donner
+doivent
+doit
+dois
+===> dormir
+   > dor
+dorian
+===> dormir
+   > dorm
+===> dormir
+   > dormi
+===> dormir
+   > dormir
+===> je
+   > 
+de
+je
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> brosser
+   > 
+de
+je
+les
+la
+à
+===> brosser
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> brosser
+   > br
+bras
+bruxelles
+brûler
+brusques
+bruler
+===> brosser
+   > bro
+brochures
+===> brosser
+   > bros
+===> brosser
+   > bross
+===> brosser
+   > brosse
+===> brosser
+   > brosser
+===> les
+   > 
+de
+je
+les
+===> dents
+   > 
+de
+je
+les
+la
+à
+===> dents
+   > d
+des
+dans
+du
+donc
+deux
+===> dents
+   > de
+depuis
+deuxième
+devais
+demander
+dernier
+===> dents
+   > den
+===> dents
+   > dent
+===> dents
+   > dents
+===> je
+   > 
+de
+je
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> sortir
+   > 
+de
+je
+les
+la
+à
+===> sortir
+   > s
+sur
+sont
+se
+suis
+si
+===> sortir
+   > so
+son
+souvent
+société
+soit
+sociale
+===> sortir
+   > sor
+sortir
+===> je
+   > 
+de
+je
+===> voudrais
+   > 
+de
+je
+les
+la
+à
+===> voudrais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voudrais
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voudrais
+   > vou
+voulait
+voulu
+voulue
+===> voudrais
+   > voud
+===> voudrais
+   > voudr
+===> voudrais
+   > voudra
+===> voudrais
+   > voudrai
+===> voudrais
+   > voudrais
+===> changer
+   > 
+de
+je
+les
+la
+à
+===> changer
+   > c
+ce
+cela
+car
+cette
+comme
+===> changer
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> changer
+   > cha
+changer
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> chaînes
+   > 
+de
+je
+les
+la
+à
+===> chaînes
+   > c
+ce
+cela
+car
+cette
+comme
+===> chaînes
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chaînes
+   > cha
+changer
+chacun
+changé
+charge
+changement
+===> chaînes
+   > cha�
+===> chaînes
+   > chaî
+===> chaînes
+   > chaîn
+===> chaînes
+   > chaîne
+===> chaînes
+   > chaînes
+===> je
+   > 
+de
+je
+===> voudrais
+   > 
+de
+je
+les
+la
+à
+===> voudrais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voudrais
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voudrais
+   > vou
+voulait
+voulu
+voulue
+===> voudrais
+   > voud
+===> voudrais
+   > voudr
+===> voudrais
+   > voudra
+===> voudrais
+   > voudrai
+===> voudrais
+   > voudrais
+===> mes
+   > 
+de
+je
+les
+la
+à
+===> mes
+   > m
+mon
+me
+ma
+moi
+mes
+===> médicaments
+   > 
+de
+je
+les
+la
+à
+===> médicaments
+   > m
+mon
+me
+ma
+moi
+mes
+===> médicaments
+   > m�
+===> médicaments
+   > mé
+médecin
+méthode
+méningite
+méfiance
+méthodes
+===> médicaments
+   > méd
+médias
+===> médicaments
+   > médi
+===> médicaments
+   > médic
+===> médicaments
+   > médica
+===> médicaments
+   > médicam
+===> médicaments
+   > médicame
+===> médicaments
+   > médicamen
+===> médicaments
+   > médicament
+===> médicaments
+   > médicaments
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> comprends
+   > 
+de
+je
+les
+la
+à
+===> comprends
+   > c
+ce
+cela
+car
+cette
+comme
+===> comprends
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> comprends
+   > com
+comprends
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> chat
+   > 
+de
+je
+les
+la
+à
+===> chat
+   > c
+ce
+cela
+car
+cette
+comme
+===> chat
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chat
+   > cha
+changer
+chacun
+changé
+charge
+changement
+===> chat
+   > chat
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> sorti
+   > 
+de
+je
+les
+la
+à
+===> sorti
+   > s
+sur
+sont
+se
+suis
+si
+===> sorti
+   > so
+son
+souvent
+société
+soit
+sociale
+===> sorti
+   > sor
+sortir
+sorties
+sortie
+sortent
+sortants
+===> sorti
+   > sort
+===> sorti
+   > sorti
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> téléphone
+   > 
+de
+je
+les
+la
+à
+===> téléphone
+   > t
+tout
+tous
+très
+toujours
+tu
+===> téléphone
+   > t�
+===> téléphone
+   > té
+télévision
+tétraplégie
+téléphone
+===> a
+   > 
+de
+je
+les
+la
+à
+===> a
+   > a
+ai
+avec
+au
+autres
+avoir
+===> sonné
+   > 
+de
+je
+les
+la
+à
+===> sonné
+   > s
+sur
+sont
+se
+suis
+si
+===> sonné
+   > so
+son
+souvent
+société
+soit
+sociale
+===> sonné
+   > son
+sons
+===> sonné
+   > sonn
+===> sonné
+   > sonn�
+===> sonné
+   > sonné
+===> on
+   > 
+de
+je
+les
+la
+à
+===> on
+   > o
+on
+===> a
+   > 
+de
+je
+les
+la
+à
+===> a
+   > a
+ai
+avec
+au
+autres
+avoir
+===> sonné
+   > 
+de
+je
+les
+la
+à
+===> sonné
+   > s
+sur
+sont
+se
+suis
+si
+===> sonné
+   > so
+son
+souvent
+société
+soit
+sociale
+===> sonné
+   > son
+sons
+===> sonné
+   > sonn
+===> sonné
+   > sonn�
+===> sonné
+   > sonné
+===> à
+   > 
+de
+je
+les
+la
+à
+===> la
+   > 
+de
+je
+les
+la
+===> porte
+   > 
+de
+je
+les
+la
+à
+===> porte
+   > p
+pour
+pas
+plus
+personnes
+par
+===> porte
+   > po
+porte
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> y
+   > 
+de
+je
+les
+la
+à
+===> y
+   > y
+yohan
+yeux
+===> a
+   > 
+de
+je
+les
+la
+à
+===> a
+   > a
+ai
+avec
+au
+autres
+avoir
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> problème
+   > 
+de
+je
+les
+la
+à
+===> problème
+   > p
+pour
+pas
+plus
+personnes
+par
+===> problème
+   > pr
+problèmes
+problème
+===> sur
+   > 
+de
+je
+les
+la
+à
+===> sur
+   > s
+sur
+===> l
+   > 
+de
+je
+les
+la
+à
+===> l
+   > l
+le
+leur
+livre
+lui
+leurs
+===> ordinateur
+   > 
+de
+je
+les
+la
+à
+===> ordinateur
+   > o
+on
+ou
+ont
+où
+ordinateur
+===> peux
+   > 
+de
+je
+les
+la
+à
+===> peux
+   > p
+pour
+pas
+plus
+personnes
+par
+===> peux
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> peux
+   > peu
+peux
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> laver
+   > 
+de
+je
+les
+la
+à
+===> laver
+   > l
+le
+leur
+livre
+lui
+leurs
+===> laver
+   > la
+laisser
+laisse
+laver
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> visage
+   > 
+de
+je
+les
+la
+à
+===> visage
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> visage
+   > vi
+vis
+vision
+vite
+vivent
+village
+===> visage
+   > vis
+visuels
+visité
+visite
+visitai
+visage
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> peux
+   > 
+de
+je
+les
+la
+à
+===> peux
+   > p
+pour
+pas
+plus
+personnes
+par
+===> peux
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> peux
+   > peu
+peux
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> me
+   > 
+de
+je
+les
+la
+à
+===> me
+   > m
+mon
+me
+===> mettre
+   > 
+de
+je
+les
+la
+à
+===> mettre
+   > m
+mon
+me
+ma
+moi
+mes
+===> mettre
+   > me
+mettre
+===> les
+   > 
+de
+je
+les
+===> lunettes
+   > 
+de
+je
+les
+la
+à
+===> lunettes
+   > l
+le
+leur
+livre
+lui
+leurs
+===> lunettes
+   > lu
+lumière
+lumineuse
+===> lunettes
+   > lun
+===> lunettes
+   > lune
+===> lunettes
+   > lunet
+===> lunettes
+   > lunett
+===> lunettes
+   > lunette
+===> lunettes
+   > lunettes
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> je
+   > 
+de
+je
+===> voudrais
+   > 
+de
+je
+les
+la
+à
+===> voudrais
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> voudrais
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> voudrais
+   > vou
+voulait
+voulu
+voulue
+===> voudrais
+   > voud
+===> voudrais
+   > voudr
+===> voudrais
+   > voudra
+===> voudrais
+   > voudrai
+===> voudrais
+   > voudrais
+===> aller
+   > 
+de
+je
+les
+la
+à
+===> aller
+   > a
+ai
+avec
+au
+autres
+avoir
+===> aller
+   > al
+aller
+===> aux
+   > 
+de
+je
+les
+la
+à
+===> aux
+   > a
+ai
+avec
+au
+autres
+avoir
+===> aux
+   > au
+aux
+===> toilettes
+   > 
+de
+je
+les
+la
+à
+===> toilettes
+   > t
+tout
+tous
+très
+toujours
+tu
+===> toilettes
+   > to
+ton
+toutes
+toute
+totalement
+tomber
+===> toilettes
+   > toi
+toilettes
+===> s
+   > 
+de
+je
+les
+la
+à
+===> s
+   > s
+sur
+sont
+se
+suis
+si
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> plaît
+   > 
+de
+je
+les
+la
+à
+===> plaît
+   > p
+pour
+pas
+plus
+personnes
+par
+===> plaît
+   > pl
+place
+plaisir
+plusieurs
+plupart
+plutôt
+===> plaît
+   > pla
+plaît
+===> as
+   > 
+de
+je
+les
+la
+à
+===> as
+   > a
+ai
+avec
+au
+autres
+avoir
+===> as
+   > as
+association
+asphyxie
+assez
+associations
+assistante
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> passé
+   > 
+de
+je
+les
+la
+à
+===> passé
+   > p
+pour
+pas
+plus
+personnes
+par
+===> passé
+   > pa
+parents
+passé
+===> un
+   > 
+de
+je
+les
+la
+à
+===> un
+   > u
+une
+un
+===> bon
+   > 
+de
+je
+les
+la
+à
+===> bon
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> moment
+   > 
+de
+je
+les
+la
+à
+===> moment
+   > m
+mon
+me
+ma
+moi
+mes
+===> moment
+   > mo
+monde
+mois
+mouvements
+moins
+montrer
+===> moment
+   > mom
+moment
+===> appelez
+   > 
+de
+je
+les
+la
+à
+===> appelez
+   > a
+ai
+avec
+au
+autres
+avoir
+===> appelez
+   > ap
+après
+appris
+appel
+apprends
+appelle
+===> appelez
+   > app
+appareil
+apprendre
+apporté
+apparence
+appréhension
+===> appelez
+   > appe
+===> appelez
+   > appel
+===> appelez
+   > appele
+===> appelez
+   > appelez
+===> pour
+   > 
+de
+je
+les
+la
+à
+===> pour
+   > p
+pour
+===> plus
+   > 
+de
+je
+les
+la
+à
+===> plus
+   > p
+pour
+pas
+plus
+===> de
+   > 
+de
+===> détails
+   > 
+de
+je
+les
+la
+à
+===> détails
+   > d
+des
+dans
+du
+donc
+deux
+===> détails
+   > d�
+===> détails
+   > dé
+début
+découvrir
+décidé
+dépenses
+découvert
+===> détails
+   > dét
+déterminer
+déterminant
+détendu
+détendre
+détend
+===> détails
+   > déta
+détails
+===> merci
+   > 
+de
+je
+les
+la
+à
+===> merci
+   > m
+mon
+me
+ma
+moi
+mes
+===> merci
+   > me
+mettre
+merci
+===> de
+   > 
+de
+===> votre
+   > 
+de
+je
+les
+la
+à
+===> votre
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> votre
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> votre
+   > vot
+votre
+===> aide
+   > 
+de
+je
+les
+la
+à
+===> aide
+   > a
+ai
+avec
+au
+autres
+avoir
+===> aide
+   > ai
+aide
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> plus
+   > 
+de
+je
+les
+la
+à
+===> plus
+   > p
+pour
+pas
+plus
+===> beau
+   > 
+de
+je
+les
+la
+à
+===> beau
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> beau
+   > be
+belle
+besoins
+besoin
+belgique
+beau
+===> coucher
+   > 
+de
+je
+les
+la
+à
+===> coucher
+   > c
+ce
+cela
+car
+cette
+comme
+===> coucher
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> coucher
+   > cou
+courage
+coups
+courant
+cour
+couleurs
+===> coucher
+   > couc
+coucher
+===> de
+   > 
+de
+===> soleil
+   > 
+de
+je
+les
+la
+à
+===> soleil
+   > s
+sur
+sont
+se
+suis
+si
+===> soleil
+   > so
+son
+souvent
+société
+soit
+sociale
+===> soleil
+   > sol
+solution
+solutions
+solitude
+===> soleil
+   > sole
+===> soleil
+   > solei
+===> soleil
+   > soleil
+===> je
+   > 
+de
+je
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> tenir
+   > 
+de
+je
+les
+la
+à
+===> tenir
+   > t
+tout
+tous
+très
+toujours
+tu
+===> tenir
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> tenir
+   > ten
+tenir
+===> ta
+   > 
+de
+je
+les
+la
+à
+===> ta
+   > t
+tout
+tous
+très
+toujours
+tu
+===> ta
+   > ta
+tabou
+tard
+tay
+taux
+tas
+===> main
+   > 
+de
+je
+les
+la
+à
+===> main
+   > m
+mon
+me
+ma
+moi
+mes
+===> main
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> main
+   > mai
+maintenant
+mains
+maisons
+maintien
+maintenance
+===> main
+   > main
+===> les
+   > 
+de
+je
+les
+===> enfants
+   > 
+de
+je
+les
+la
+à
+===> enfants
+   > e
+et
+est
+en
+elle
+eu
+===> enfants
+   > en
+encore
+enfants
+===> jouent
+   > 
+de
+je
+les
+la
+à
+===> jouent
+   > j
+jour
+jamais
+jours
+juste
+jusqu
+===> jouent
+   > jo
+joie
+journées
+joystick
+journée
+joues
+===> jouent
+   > jou
+jouai
+journalières
+joueurs
+joueur
+jouera
+===> jouent
+   > joue
+jouer
+jouent
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> crie
+   > 
+de
+je
+les
+la
+à
+===> crie
+   > c
+ce
+cela
+car
+cette
+comme
+===> crie
+   > cr
+créer
+créé
+créativité
+création
+cru
+===> crie
+   > cri
+crises
+critères
+critique
+crispé
+===> crie
+   > crie
+===> fort
+   > 
+de
+je
+les
+la
+à
+===> fort
+   > f
+faire
+fait
+faut
+famille
+fois
+===> fort
+   > fo
+font
+fortement
+force
+formes
+forcément
+===> fort
+   > for
+fort
+===> je
+   > 
+de
+je
+===> peux
+   > 
+de
+je
+les
+la
+à
+===> peux
+   > p
+pour
+pas
+plus
+personnes
+par
+===> peux
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> peux
+   > peu
+peux
+===> encore
+   > 
+de
+je
+les
+la
+à
+===> encore
+   > e
+et
+est
+en
+elle
+eu
+===> encore
+   > en
+encore
+===> sentir
+   > 
+de
+je
+les
+la
+à
+===> sentir
+   > s
+sur
+sont
+se
+suis
+si
+===> sentir
+   > se
+serait
+seulement
+ses
+sens
+selon
+===> sentir
+   > sen
+sentir
+===> ta
+   > 
+de
+je
+les
+la
+à
+===> ta
+   > t
+tout
+tous
+très
+toujours
+tu
+===> ta
+   > ta
+tabou
+tard
+tay
+taux
+tas
+===> présence
+   > 
+de
+je
+les
+la
+à
+===> présence
+   > p
+pour
+pas
+plus
+personnes
+par
+===> présence
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> présence
+   > pr�
+===> présence
+   > pré
+présent
+présenter
+présente
+présentant
+présentent
+===> présence
+   > prés
+président
+===> présence
+   > prése
+===> présence
+   > présen
+===> présence
+   > présenc
+===> présence
+   > présence
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> chien
+   > 
+de
+je
+les
+la
+à
+===> chien
+   > c
+ce
+cela
+car
+cette
+comme
+===> chien
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chien
+   > chi
+chié
+chirurgie
+chirurgicales
+===> chien
+   > chie
+===> chien
+   > chien
+===> va
+   > 
+de
+je
+les
+la
+à
+===> va
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> va
+   > va
+vais
+valide
+valides
+vas
+variable
+===> te
+   > 
+de
+je
+les
+la
+à
+===> te
+   > t
+tout
+tous
+très
+toujours
+tu
+===> te
+   > te
+temps
+tests
+textes
+terre
+tellement
+===> mordre
+   > 
+de
+je
+les
+la
+à
+===> mordre
+   > m
+mon
+me
+ma
+moi
+mes
+===> mordre
+   > mo
+monde
+mois
+mouvements
+moins
+montrer
+===> mordre
+   > mor
+moral
+mort
+===> mordre
+   > mord
+===> mordre
+   > mordr
+===> mordre
+   > mordre
+===> ma
+   > 
+de
+je
+les
+la
+à
+===> ma
+   > m
+mon
+me
+ma
+===> mère
+   > 
+de
+je
+les
+la
+à
+===> mère
+   > m
+mon
+me
+ma
+moi
+mes
+===> mère
+   > m�
+===> mère
+   > mè
+mère
+===> fait
+   > 
+de
+je
+les
+la
+à
+===> fait
+   > f
+faire
+fait
+===> de
+   > 
+de
+===> bons
+   > 
+de
+je
+les
+la
+à
+===> bons
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> bons
+   > bo
+bouche
+bons
+===> biscuits
+   > 
+de
+je
+les
+la
+à
+===> biscuits
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> biscuits
+   > bi
+bizarrement
+bienvenus
+bizarre
+biochimiques
+bienêtre
+===> biscuits
+   > bis
+===> biscuits
+   > bisc
+===> biscuits
+   > biscu
+===> biscuits
+   > biscui
+===> biscuits
+   > biscuit
+===> biscuits
+   > biscuits
+===> les
+   > 
+de
+je
+les
+===> universités
+   > 
+de
+je
+les
+la
+à
+===> universités
+   > u
+une
+un
+uniquement
+utilise
+utilisateur
+===> universités
+   > un
+univers
+universitaire
+unité
+united
+union
+===> universités
+   > uni
+===> universités
+   > univ
+===> universités
+   > unive
+===> universités
+   > univer
+===> universités
+   > univers
+===> universités
+   > universi
+===> universités
+   > universit
+===> universités
+   > universit�
+===> universités
+   > université
+===> universités
+   > universités
+===> sont
+   > 
+de
+je
+les
+la
+à
+===> sont
+   > s
+sur
+sont
+===> trop
+   > 
+de
+je
+les
+la
+à
+===> trop
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trop
+   > tr
+trouve
+trop
+===> chères
+   > 
+de
+je
+les
+la
+à
+===> chères
+   > c
+ce
+cela
+car
+cette
+comme
+===> chères
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chères
+   > ch�
+===> chères
+   > chè
+chère
+===> chères
+   > chèr
+===> chères
+   > chère
+===> chères
+   > chères
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> prix
+   > 
+de
+je
+les
+la
+à
+===> prix
+   > p
+pour
+pas
+plus
+personnes
+par
+===> prix
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> prix
+   > pri
+pris
+prix
+===> du
+   > 
+de
+je
+les
+la
+à
+===> du
+   > d
+des
+dans
+du
+===> gaz
+   > 
+de
+je
+les
+la
+à
+===> gaz
+   > g
+gens
+grande
+grâce
+grand
+général
+===> gaz
+   > ga
+gagné
+gay
+garder
+garage
+garçons
+===> gaz
+   > gaz
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> élevé
+   > 
+de
+je
+les
+la
+à
+===> élevé
+   > �
+===> élevé
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> élevé
+   > él
+élèves
+élève
+électrique
+élevé
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> vainqueur
+   > 
+de
+je
+les
+la
+à
+===> vainqueur
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vainqueur
+   > va
+vais
+valide
+valides
+vas
+variable
+===> vainqueur
+   > vai
+===> vainqueur
+   > vain
+===> vainqueur
+   > vainq
+===> vainqueur
+   > vainqu
+===> vainqueur
+   > vainque
+===> vainqueur
+   > vainqueu
+===> vainqueur
+   > vainqueur
+===> de
+   > 
+de
+===> la
+   > 
+de
+je
+les
+la
+===> course
+   > 
+de
+je
+les
+la
+à
+===> course
+   > c
+ce
+cela
+car
+cette
+comme
+===> course
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> course
+   > cou
+courage
+coups
+courant
+cour
+couleurs
+===> course
+   > cour
+courses
+coureur
+couramment
+===> course
+   > cours
+===> course
+   > course
+===> tu
+   > 
+de
+je
+les
+la
+à
+===> tu
+   > t
+tout
+tous
+très
+toujours
+tu
+===> veux
+   > 
+de
+je
+les
+la
+à
+===> veux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veux
+   > ve
+veut
+veulent
+venir
+veux
+===> manger
+   > 
+de
+je
+les
+la
+à
+===> manger
+   > m
+mon
+me
+ma
+moi
+mes
+===> manger
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> manger
+   > man
+manière
+manipuler
+manque
+manuel
+manquaient
+===> manger
+   > mang
+manger
+===> ton
+   > 
+de
+je
+les
+la
+à
+===> ton
+   > t
+tout
+tous
+très
+toujours
+tu
+===> ton
+   > to
+ton
+===> gâteau
+   > 
+de
+je
+les
+la
+à
+===> gâteau
+   > g
+gens
+grande
+grâce
+grand
+général
+===> gâteau
+   > g�
+===> gâteau
+   > gâ
+===> gâteau
+   > gât
+===> gâteau
+   > gâte
+===> gâteau
+   > gâtea
+===> gâteau
+   > gâteau
+===> je
+   > 
+de
+je
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> peux
+   > 
+de
+je
+les
+la
+à
+===> peux
+   > p
+pour
+pas
+plus
+personnes
+par
+===> peux
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> peux
+   > peu
+peux
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> comprendre
+   > 
+de
+je
+les
+la
+à
+===> comprendre
+   > c
+ce
+cela
+car
+cette
+comme
+===> comprendre
+   > co
+comment
+cours
+conséquent
+comprendre
+===> cela
+   > 
+de
+je
+les
+la
+à
+===> cela
+   > c
+ce
+cela
+===> ce
+   > 
+de
+je
+les
+la
+à
+===> ce
+   > c
+ce
+===> phénomène
+   > 
+de
+je
+les
+la
+à
+===> phénomène
+   > p
+pour
+pas
+plus
+personnes
+par
+===> phénomène
+   > ph
+physique
+physiques
+phrase
+photocopie
+philosophie
+===> phénomène
+   > ph�
+===> phénomène
+   > phé
+===> phénomène
+   > phén
+===> phénomène
+   > phéno
+===> phénomène
+   > phénom
+===> phénomène
+   > phénom�
+===> phénomène
+   > phénomè
+===> phénomène
+   > phénomèn
+===> phénomène
+   > phénomène
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> se
+   > 
+de
+je
+les
+la
+à
+===> se
+   > s
+sur
+sont
+se
+===> produira
+   > 
+de
+je
+les
+la
+à
+===> produira
+   > p
+pour
+pas
+plus
+personnes
+par
+===> produira
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> produira
+   > pro
+projet
+propre
+proposé
+promène
+profs
+===> produira
+   > prod
+produits
+produit
+produisant
+produirai
+===> produira
+   > produ
+===> produira
+   > produi
+===> produira
+   > produir
+===> produira
+   > produira
+===> jamais
+   > 
+de
+je
+les
+la
+à
+===> jamais
+   > j
+jour
+jamais
+===> cette
+   > 
+de
+je
+les
+la
+à
+===> cette
+   > c
+ce
+cela
+car
+cette
+===> équation
+   > 
+de
+je
+les
+la
+à
+===> équation
+   > �
+===> équation
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> équation
+   > éq
+équilibre
+équivalent
+équipé
+équipe
+===> équation
+   > équ
+===> équation
+   > équa
+===> équation
+   > équat
+===> équation
+   > équati
+===> équation
+   > équatio
+===> équation
+   > équation
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> trop
+   > 
+de
+je
+les
+la
+à
+===> trop
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trop
+   > tr
+trouve
+trop
+===> compliquée
+   > 
+de
+je
+les
+la
+à
+===> compliquée
+   > c
+ce
+cela
+car
+cette
+comme
+===> compliquée
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> compliquée
+   > com
+comprends
+compliqué
+complètement
+compte
+compris
+===> compliquée
+   > comp
+compétences
+comportement
+compassion
+comprendront
+comporte
+===> compliquée
+   > compl
+complémentaires
+complète
+compliquée
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> difficile
+   > 
+de
+je
+les
+la
+à
+===> difficile
+   > d
+des
+dans
+du
+donc
+deux
+===> difficile
+   > di
+dire
+dit
+difficultés
+disent
+différence
+===> difficile
+   > dif
+difficile
+===> de
+   > 
+de
+===> se
+   > 
+de
+je
+les
+la
+à
+===> se
+   > s
+sur
+sont
+se
+===> concentrer
+   > 
+de
+je
+les
+la
+à
+===> concentrer
+   > c
+ce
+cela
+car
+cette
+comme
+===> concentrer
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> concentrer
+   > con
+concernant
+continuer
+confiance
+contrôler
+contre
+===> concentrer
+   > conc
+conclusion
+concernées
+concentration
+concours
+concernés
+===> concentrer
+   > conce
+concerné
+concernent
+concerne
+concernait
+===> concentrer
+   > concen
+===> concentrer
+   > concent
+===> concentrer
+   > concentr
+===> concentrer
+   > concentre
+===> concentrer
+   > concentrer
+===> les
+   > 
+de
+je
+les
+===> trains
+   > 
+de
+je
+les
+la
+à
+===> trains
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trains
+   > tr
+trouve
+trop
+trouver
+trois
+travers
+===> trains
+   > tra
+travail
+travaux
+travaille
+traumatisme
+train
+===> trains
+   > trai
+===> trains
+   > train
+===> trains
+   > trains
+===> sont
+   > 
+de
+je
+les
+la
+à
+===> sont
+   > s
+sur
+sont
+===> toujours
+   > 
+de
+je
+les
+la
+à
+===> toujours
+   > t
+tout
+tous
+très
+toujours
+===> en
+   > 
+de
+je
+les
+la
+à
+===> en
+   > e
+et
+est
+en
+===> retard
+   > 
+de
+je
+les
+la
+à
+===> retard
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> retard
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> retard
+   > ret
+retournent
+retouches
+retard
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> loyer
+   > 
+de
+je
+les
+la
+à
+===> loyer
+   > l
+le
+leur
+livre
+lui
+leurs
+===> loyer
+   > lo
+lorsque
+loin
+lourd
+lorsqu
+longue
+===> loyer
+   > loy
+===> loyer
+   > loye
+===> loyer
+   > loyer
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> payé
+   > 
+de
+je
+les
+la
+à
+===> payé
+   > p
+pour
+pas
+plus
+personnes
+par
+===> payé
+   > pa
+parents
+passé
+passer
+parcours
+parle
+===> payé
+   > pay
+pays
+payer
+payée
+paysage
+===> payé
+   > pay�
+===> payé
+   > payé
+payée
+===> au
+   > 
+de
+je
+les
+la
+à
+===> au
+   > a
+ai
+avec
+au
+===> début
+   > 
+de
+je
+les
+la
+à
+===> début
+   > d
+des
+dans
+du
+donc
+deux
+===> début
+   > d�
+===> début
+   > dé
+début
+===> du
+   > 
+de
+je
+les
+la
+à
+===> du
+   > d
+des
+dans
+du
+===> mois
+   > 
+de
+je
+les
+la
+à
+===> mois
+   > m
+mon
+me
+ma
+moi
+mes
+===> mois
+   > mo
+monde
+mois
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> a
+   > 
+de
+je
+les
+la
+à
+===> a
+   > a
+ai
+avec
+au
+autres
+avoir
+===> appelé
+   > 
+de
+je
+les
+la
+à
+===> appelé
+   > a
+ai
+avec
+au
+autres
+avoir
+===> appelé
+   > ap
+après
+appris
+appel
+apprends
+appelle
+===> appelé
+   > app
+appareil
+apprendre
+apporté
+apparence
+appréhension
+===> appelé
+   > appe
+===> appelé
+   > appel
+===> appelé
+   > appel�
+===> appelé
+   > appelé
+===> sept
+   > 
+de
+je
+les
+la
+à
+===> sept
+   > s
+sur
+sont
+se
+suis
+si
+===> sept
+   > se
+serait
+seulement
+ses
+sens
+selon
+===> sept
+   > sep
+septembre
+===> sept
+   > sept
+===> fois
+   > 
+de
+je
+les
+la
+à
+===> fois
+   > f
+faire
+fait
+faut
+famille
+fois
+===> cette
+   > 
+de
+je
+les
+la
+à
+===> cette
+   > c
+ce
+cela
+car
+cette
+===> caméra
+   > 
+de
+je
+les
+la
+à
+===> caméra
+   > c
+ce
+cela
+car
+cette
+comme
+===> caméra
+   > ca
+cause
+cas
+capable
+cadre
+catholique
+===> caméra
+   > cam
+===> caméra
+   > cam�
+===> caméra
+   > camé
+===> caméra
+   > camér
+===> caméra
+   > caméra
+===> prend
+   > 
+de
+je
+les
+la
+à
+===> prend
+   > p
+pour
+pas
+plus
+personnes
+par
+===> prend
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> prend
+   > pre
+prendre
+premier
+presque
+prenons
+premièrement
+===> prend
+   > pren
+prennent
+===> prend
+   > prend
+===> de
+   > 
+de
+===> belles
+   > 
+de
+je
+les
+la
+à
+===> belles
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> belles
+   > be
+belle
+besoins
+besoin
+belgique
+beau
+===> belles
+   > bel
+belles
+===> photos
+   > 
+de
+je
+les
+la
+à
+===> photos
+   > p
+pour
+pas
+plus
+personnes
+par
+===> photos
+   > ph
+physique
+physiques
+phrase
+photocopie
+philosophie
+===> photos
+   > pho
+photomontages
+photographie
+photocopier
+phobie
+===> photos
+   > phot
+===> photos
+   > photo
+===> photos
+   > photos
+===> nous
+   > 
+de
+je
+les
+la
+à
+===> nous
+   > n
+ne
+nous
+===> avons
+   > 
+de
+je
+les
+la
+à
+===> avons
+   > a
+ai
+avec
+au
+autres
+avoir
+===> avons
+   > av
+avais
+avant
+avait
+avs
+avaient
+===> avons
+   > avo
+avons
+===> raté
+   > 
+de
+je
+les
+la
+à
+===> raté
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> raté
+   > ra
+raisons
+raison
+rapidement
+rapport
+raconte
+===> raté
+   > rat
+===> raté
+   > rat�
+===> raté
+   > raté
+===> votre
+   > 
+de
+je
+les
+la
+à
+===> votre
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> votre
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> votre
+   > vot
+votre
+===> anniversaire
+   > 
+de
+je
+les
+la
+à
+===> anniversaire
+   > a
+ai
+avec
+au
+autres
+avoir
+===> anniversaire
+   > an
+ans
+année
+années
+anomalies
+analyser
+===> anniversaire
+   > ann
+annoncé
+annonces
+annoncer
+===> anniversaire
+   > anni
+===> anniversaire
+   > anniv
+===> anniversaire
+   > annive
+===> anniversaire
+   > anniver
+===> anniversaire
+   > annivers
+===> anniversaire
+   > anniversa
+===> anniversaire
+   > anniversai
+===> anniversaire
+   > anniversair
+===> anniversaire
+   > anniversaire
+===> elle
+   > 
+de
+je
+les
+la
+à
+===> elle
+   > e
+et
+est
+en
+elle
+===> porte
+   > 
+de
+je
+les
+la
+à
+===> porte
+   > p
+pour
+pas
+plus
+personnes
+par
+===> porte
+   > po
+porte
+===> trop
+   > 
+de
+je
+les
+la
+à
+===> trop
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trop
+   > tr
+trouve
+trop
+===> de
+   > 
+de
+===> maquillage
+   > 
+de
+je
+les
+la
+à
+===> maquillage
+   > m
+mon
+me
+ma
+moi
+mes
+===> maquillage
+   > ma
+mais
+maison
+malgré
+mal
+matériel
+===> maquillage
+   > maq
+===> maquillage
+   > maqu
+===> maquillage
+   > maqui
+===> maquillage
+   > maquil
+===> maquillage
+   > maquill
+===> maquillage
+   > maquilla
+===> maquillage
+   > maquillag
+===> maquillage
+   > maquillage
+===> les
+   > 
+de
+je
+les
+===> tremblements
+   > 
+de
+je
+les
+la
+à
+===> tremblements
+   > t
+tout
+tous
+très
+toujours
+tu
+===> tremblements
+   > tr
+trouve
+trop
+trouver
+trois
+travers
+===> tremblements
+   > tre
+trente
+tremblement
+===> tremblements
+   > trem
+===> tremblements
+   > tremb
+===> tremblements
+   > trembl
+===> tremblements
+   > tremble
+===> tremblements
+   > tremblem
+===> tremblements
+   > trembleme
+===> tremblements
+   > tremblemen
+===> tremblements
+   > tremblement
+===> tremblements
+   > tremblements
+===> de
+   > 
+de
+===> terre
+   > 
+de
+je
+les
+la
+à
+===> terre
+   > t
+tout
+tous
+très
+toujours
+tu
+===> terre
+   > te
+temps
+tests
+textes
+terre
+===> sont
+   > 
+de
+je
+les
+la
+à
+===> sont
+   > s
+sur
+sont
+===> prévisibles
+   > 
+de
+je
+les
+la
+à
+===> prévisibles
+   > p
+pour
+pas
+plus
+personnes
+par
+===> prévisibles
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> prévisibles
+   > pr�
+===> prévisibles
+   > pré
+présent
+présenter
+présente
+présentant
+présentent
+===> prévisibles
+   > prév
+===> prévisibles
+   > prévi
+===> prévisibles
+   > prévis
+===> prévisibles
+   > prévisi
+===> prévisibles
+   > prévisib
+===> prévisibles
+   > prévisibl
+===> prévisibles
+   > prévisible
+===> prévisibles
+   > prévisibles
+===> la
+   > 
+de
+je
+les
+la
+===> cour
+   > 
+de
+je
+les
+la
+à
+===> cour
+   > c
+ce
+cela
+car
+cette
+comme
+===> cour
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> cour
+   > cou
+courage
+coups
+courant
+cour
+===> arrière
+   > 
+de
+je
+les
+la
+à
+===> arrière
+   > a
+ai
+avec
+au
+autres
+avoir
+===> arrière
+   > ar
+arriver
+arrivé
+article
+arrêté
+arrêter
+===> arrière
+   > arr
+arriération
+arrivent
+arrive
+arrivais
+arrêterai
+===> arrière
+   > arri
+arriverais
+===> arrière
+   > arri�
+===> arrière
+   > arriè
+===> arrière
+   > arrièr
+===> arrière
+   > arrière
+===> de
+   > 
+de
+===> notre
+   > 
+de
+je
+les
+la
+à
+===> notre
+   > n
+ne
+nous
+notre
+===> maison
+   > 
+de
+je
+les
+la
+à
+===> maison
+   > m
+mon
+me
+ma
+moi
+mes
+===> maison
+   > ma
+mais
+maison
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> toujours
+   > 
+de
+je
+les
+la
+à
+===> toujours
+   > t
+tout
+tous
+très
+toujours
+===> dans
+   > 
+de
+je
+les
+la
+à
+===> dans
+   > d
+des
+dans
+===> notre
+   > 
+de
+je
+les
+la
+à
+===> notre
+   > n
+ne
+nous
+notre
+===> équipe
+   > 
+de
+je
+les
+la
+à
+===> équipe
+   > �
+===> équipe
+   > é
+était
+étais
+évidemment
+également
+écrire
+===> équipe
+   > éq
+équilibre
+équivalent
+équipé
+équipe
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> gaspillez
+   > 
+de
+je
+les
+la
+à
+===> gaspillez
+   > g
+gens
+grande
+grâce
+grand
+général
+===> gaspillez
+   > ga
+gagné
+gay
+garder
+garage
+garçons
+===> gaspillez
+   > gas
+===> gaspillez
+   > gasp
+===> gaspillez
+   > gaspi
+===> gaspillez
+   > gaspil
+===> gaspillez
+   > gaspill
+===> gaspillez
+   > gaspille
+===> gaspillez
+   > gaspillez
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> votre
+   > 
+de
+je
+les
+la
+à
+===> votre
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> votre
+   > vo
+voir
+voire
+voulais
+voulaient
+vois
+===> votre
+   > vot
+votre
+===> temps
+   > 
+de
+je
+les
+la
+à
+===> temps
+   > t
+tout
+tous
+très
+toujours
+tu
+===> temps
+   > te
+temps
+===> ne
+   > 
+de
+je
+les
+la
+à
+===> ne
+   > n
+ne
+===> buvez
+   > 
+de
+je
+les
+la
+à
+===> buvez
+   > b
+beaucoup
+bien
+but
+bac
+bon
+===> buvez
+   > bu
+budget
+bulle
+buccaux
+===> buvez
+   > buv
+===> buvez
+   > buve
+===> buvez
+   > buvez
+===> pas
+   > 
+de
+je
+les
+la
+à
+===> pas
+   > p
+pour
+pas
+===> trop
+   > 
+de
+je
+les
+la
+à
+===> trop
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trop
+   > tr
+trouve
+trop
+===> la
+   > 
+de
+je
+les
+la
+===> force
+   > 
+de
+je
+les
+la
+à
+===> force
+   > f
+faire
+fait
+faut
+famille
+fois
+===> force
+   > fo
+font
+fortement
+force
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> avec
+   > 
+de
+je
+les
+la
+à
+===> avec
+   > a
+ai
+avec
+===> toi
+   > 
+de
+je
+les
+la
+à
+===> toi
+   > t
+tout
+tous
+très
+toujours
+tu
+===> toi
+   > to
+ton
+toutes
+toute
+totalement
+tomber
+===> toi
+   > toi
+toilettes
+toilette
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> comme
+   > 
+de
+je
+les
+la
+à
+===> comme
+   > c
+ce
+cela
+car
+cette
+comme
+===> tout
+   > 
+de
+je
+les
+la
+à
+===> tout
+   > t
+tout
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> monde
+   > 
+de
+je
+les
+la
+à
+===> monde
+   > m
+mon
+me
+ma
+moi
+mes
+===> monde
+   > mo
+monde
+===> il
+   > 
+de
+je
+les
+la
+à
+===> il
+   > i
+il
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> temps
+   > 
+de
+je
+les
+la
+à
+===> temps
+   > t
+tout
+tous
+très
+toujours
+tu
+===> temps
+   > te
+temps
+===> de
+   > 
+de
+===> faire
+   > 
+de
+je
+les
+la
+à
+===> faire
+   > f
+faire
+===> du
+   > 
+de
+je
+les
+la
+à
+===> du
+   > d
+des
+dans
+du
+===> shopping
+   > 
+de
+je
+les
+la
+à
+===> shopping
+   > s
+sur
+sont
+se
+suis
+si
+===> shopping
+   > sh
+===> shopping
+   > sho
+===> shopping
+   > shop
+===> shopping
+   > shopp
+===> shopping
+   > shoppi
+===> shopping
+   > shoppin
+===> shopping
+   > shopping
+===> vous
+   > 
+de
+je
+les
+la
+à
+===> vous
+   > v
+vie
+vous
+===> devez
+   > 
+de
+je
+les
+la
+à
+===> devez
+   > d
+des
+dans
+du
+donc
+deux
+===> devez
+   > de
+depuis
+deuxième
+devais
+demander
+dernier
+===> devez
+   > dev
+devenir
+devoirs
+devez
+===> être
+   > 
+de
+je
+les
+la
+à
+===> être
+   > �
+===> être
+   > ê
+être
+===> vieux
+   > 
+de
+je
+les
+la
+à
+===> vieux
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> vieux
+   > vi
+vis
+vision
+vite
+vivent
+village
+===> vieux
+   > vie
+vient
+viennent
+viens
+viendra
+vieil
+===> vieux
+   > vieu
+===> vieux
+   > vieux
+===> je
+   > 
+de
+je
+===> déteste
+   > 
+de
+je
+les
+la
+à
+===> déteste
+   > d
+des
+dans
+du
+donc
+deux
+===> déteste
+   > d�
+===> déteste
+   > dé
+début
+découvrir
+décidé
+dépenses
+découvert
+===> déteste
+   > dét
+déterminer
+déterminant
+détendu
+détendre
+détend
+===> déteste
+   > déte
+===> déteste
+   > détes
+===> déteste
+   > détest
+===> déteste
+   > déteste
+===> cuisiner
+   > 
+de
+je
+les
+la
+à
+===> cuisiner
+   > c
+ce
+cela
+car
+cette
+comme
+===> cuisiner
+   > cu
+cutanées
+curseur
+curiosité
+cul
+===> cuisiner
+   > cui
+===> cuisiner
+   > cuis
+===> cuisiner
+   > cuisi
+===> cuisiner
+   > cuisin
+===> cuisiner
+   > cuisine
+===> cuisiner
+   > cuisiner
+===> des
+   > 
+de
+je
+les
+la
+à
+===> des
+   > d
+des
+===> tartes
+   > 
+de
+je
+les
+la
+à
+===> tartes
+   > t
+tout
+tous
+très
+toujours
+tu
+===> tartes
+   > ta
+tabou
+tard
+tay
+taux
+tas
+===> tartes
+   > tar
+===> tartes
+   > tart
+===> tartes
+   > tarte
+===> tartes
+   > tartes
+===> gagner
+   > 
+de
+je
+les
+la
+à
+===> gagner
+   > g
+gens
+grande
+grâce
+grand
+général
+===> gagner
+   > ga
+gagné
+gay
+garder
+garage
+garçons
+===> gagner
+   > gag
+gagnait
+===> gagner
+   > gagn
+===> gagner
+   > gagne
+===> gagner
+   > gagner
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> premier
+   > 
+de
+je
+les
+la
+à
+===> premier
+   > p
+pour
+pas
+plus
+personnes
+par
+===> premier
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> premier
+   > pre
+prendre
+premier
+===> prix
+   > 
+de
+je
+les
+la
+à
+===> prix
+   > p
+pour
+pas
+plus
+personnes
+par
+===> prix
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> prix
+   > pri
+pris
+prix
+===> du
+   > 
+de
+je
+les
+la
+à
+===> du
+   > d
+des
+dans
+du
+===> concours
+   > 
+de
+je
+les
+la
+à
+===> concours
+   > c
+ce
+cela
+car
+cette
+comme
+===> concours
+   > co
+comment
+cours
+conséquent
+comprendre
+communication
+===> concours
+   > con
+concernant
+continuer
+confiance
+contrôler
+contre
+===> concours
+   > conc
+conclusion
+concernées
+concentration
+concours
+===> cette
+   > 
+de
+je
+les
+la
+à
+===> cette
+   > c
+ce
+cela
+car
+cette
+===> veste
+   > 
+de
+je
+les
+la
+à
+===> veste
+   > v
+vie
+vous
+vraiment
+vers
+vivre
+===> veste
+   > ve
+veut
+veulent
+venir
+veux
+venait
+===> veste
+   > ves
+===> veste
+   > vest
+===> veste
+   > veste
+===> en
+   > 
+de
+je
+les
+la
+à
+===> en
+   > e
+et
+est
+en
+===> cuir
+   > 
+de
+je
+les
+la
+à
+===> cuir
+   > c
+ce
+cela
+car
+cette
+comme
+===> cuir
+   > cu
+cutanées
+curseur
+curiosité
+cul
+===> cuir
+   > cui
+===> cuir
+   > cuir
+===> est
+   > 
+de
+je
+les
+la
+à
+===> est
+   > e
+et
+est
+===> trop
+   > 
+de
+je
+les
+la
+à
+===> trop
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trop
+   > tr
+trouve
+trop
+===> chaude
+   > 
+de
+je
+les
+la
+à
+===> chaude
+   > c
+ce
+cela
+car
+cette
+comme
+===> chaude
+   > ch
+chez
+chose
+chaque
+chance
+choses
+===> chaude
+   > cha
+changer
+chacun
+changé
+charge
+changement
+===> chaude
+   > chau
+chauffeurs
+===> chaude
+   > chaud
+===> chaude
+   > chaude
+===> deux
+   > 
+de
+je
+les
+la
+à
+===> deux
+   > d
+des
+dans
+du
+donc
+deux
+===> ou
+   > 
+de
+je
+les
+la
+à
+===> ou
+   > o
+on
+ou
+===> trois
+   > 
+de
+je
+les
+la
+à
+===> trois
+   > t
+tout
+tous
+très
+toujours
+tu
+===> trois
+   > tr
+trouve
+trop
+trouver
+trois
+===> tasses
+   > 
+de
+je
+les
+la
+à
+===> tasses
+   > t
+tout
+tous
+très
+toujours
+tu
+===> tasses
+   > ta
+tabou
+tard
+tay
+taux
+tas
+===> tasses
+   > tas
+===> tasses
+   > tass
+===> tasses
+   > tasse
+===> tasses
+   > tasses
+===> de
+   > 
+de
+===> café
+   > 
+de
+je
+les
+la
+à
+===> café
+   > c
+ce
+cela
+car
+cette
+comme
+===> café
+   > ca
+cause
+cas
+capable
+cadre
+catholique
+===> café
+   > caf
+===> café
+   > caf�
+===> café
+   > café
+===> le
+   > 
+de
+je
+les
+la
+à
+===> le
+   > l
+le
+===> propriétaire
+   > 
+de
+je
+les
+la
+à
+===> propriétaire
+   > p
+pour
+pas
+plus
+personnes
+par
+===> propriétaire
+   > pr
+problèmes
+problème
+première
+propos
+présent
+===> propriétaire
+   > pro
+projet
+propre
+proposé
+promène
+profs
+===> propriétaire
+   > prop
+propres
+proposés
+propositions
+proposer
+propose
+===> propriétaire
+   > propr
+===> propriétaire
+   > propri
+===> propriétaire
+   > propri�
+===> propriétaire
+   > proprié
+===> propriétaire
+   > propriét
+===> propriétaire
+   > propriéta
+===> propriétaire
+   > propriétai
+===> propriétaire
+   > propriétair
+===> propriétaire
+   > propriétaire
+===> était
+   > 
+de
+je
+les
+la
+à
+===> était
+   > �
+===> était
+   > é
+était
+===> indisponible
+   > 
+de
+je
+les
+la
+à
+===> indisponible
+   > i
+il
+ils
+informatique
+important
+imc
+===> indisponible
+   > in
+intervenantes
+internet
+interventions
+intéressé
+involontaires
+===> indisponible
+   > ind
+indépendance
+individu
+indispensables
+individus
+indirectement
+===> indisponible
+   > indi
+===> indisponible
+   > indis
+===> indisponible
+   > indisp
+===> indisponible
+   > indispo
+===> indisponible
+   > indispon
+===> indisponible
+   > indisponi
+===> indisponible
+   > indisponib
+===> indisponible
+   > indisponibl
+===> indisponible
+   > indisponible
+===> les
+   > 
+de
+je
+les
+===> lettres
+   > 
+de
+je
+les
+la
+à
+===> lettres
+   > l
+le
+leur
+livre
+lui
+leurs
+===> lettres
+   > le
+leçon
+lettre
+lequel
+lettres
+===> de
+   > 
+de
+===> refus
+   > 
+de
+je
+les
+la
+à
+===> refus
+   > r
+regard
+rien
+réaliser
+reste
+remercie
+===> refus
+   > re
+rencontré
+remarques
+rendre
+retour
+ressens
+===> refus
+   > ref
+refusé
+refusait
+referme
+===> refus
+   > refu
+===> refus
+   > refus
+===> sont
+   > 
+de
+je
+les
+la
+à
+===> sont
+   > s
+sur
+sont
+===> décourageantes
+   > 
+de
+je
+les
+la
+à
+===> décourageantes
+   > d
+des
+dans
+du
+donc
+deux
+===> décourageantes
+   > d�
+===> décourageantes
+   > dé
+début
+découvrir
+décidé
+dépenses
+découvert
+===> décourageantes
+   > déc
+décourage
+décrit
+décrire
+découvre
+découpes
+===> décourageantes
+   > déco
+décor
+===> décourageantes
+   > décou
+===> décourageantes
+   > décour
+===> décourageantes
+   > découra
+===> décourageantes
+   > décourag
+===> décourageantes
+   > décourage
+===> décourageantes
+   > découragea
+===> décourageantes
+   > découragean
+===> décourageantes
+   > décourageant
+===> décourageantes
+   > décourageante
+===> décourageantes
+   > décourageantes
+===> alors
+   > 
+de
+je
+les
+la
+à
+===> alors
+   > a
+ai
+avec
+au
+autres
+avoir
+===> alors
+   > al
+aller
+alors
+===> vous
+   > 
+de
+je
+les
+la
+à
+===> vous
+   > v
+vie
+vous
+===> pensez
+   > 
+de
+je
+les
+la
+à
+===> pensez
+   > p
+pour
+pas
+plus
+personnes
+par
+===> pensez
+   > pe
+personne
+peut
+pense
+peuvent
+pendant
+===> pensez
+   > pen
+penser
+pensent
+pensé
+pensées
+pensée
+===> pensez
+   > pens
+pensant
+===> pensez
+   > pense
+===> pensez
+   > pensez
+===> que
+   > 
+de
+je
+les
+la
+à
+===> que
+   > q
+que
+===> vous
+   > 
+de
+je
+les
+la
+à
+===> vous
+   > v
+vie
+vous
+===> méritez
+   > 
+de
+je
+les
+la
+à
+===> méritez
+   > m
+mon
+me
+ma
+moi
+mes
+===> méritez
+   > m�
+===> méritez
+   > mé
+médecin
+méthode
+méningite
+méfiance
+méthodes
+===> méritez
+   > mér
+mérite
+===> méritez
+   > méri
+===> méritez
+   > mérit
+===> méritez
+   > mérite
+===> méritez
+   > méritez
+===> une
+   > 
+de
+je
+les
+la
+à
+===> une
+   > u
+une
+===> augmentation
+   > 
+de
+je
+les
+la
+à
+===> augmentation
+   > a
+ai
+avec
+au
+autres
+avoir
+===> augmentation
+   > au
+aux
+autre
+aussi
+aujourd
+autonomie
+===> augmentation
+   > aug
+augmenté
+augmentation
+
+============================
+Keystroke Savings Rate (KSR)
+           ki + ks        
+KSR = (1 - ------- ) * 100
+             kn           
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 2159
+ks : 71
+kn : 3419
+
+KSR: 34.7763

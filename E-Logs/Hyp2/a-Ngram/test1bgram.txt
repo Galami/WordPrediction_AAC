@@ -1,0 +1,2558 @@
+File to treat : test1agram.txt 
+
+bonjour > bonj
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+verre > ver
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+d > d
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+eau > ea
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vous > v
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+comment > co
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+t > t
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+appelles > appelle
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 7 / nbre de lettre(s) economisees : 2 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+se > s
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+sent > sent
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+bien > b
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+depuis > de
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+ce > c
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+matin > mat
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+a > a
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+quelle > que
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+heure > he
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+ferme > fer
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+magasin > maga
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+voiture > voi
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+démarre > démar
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 3 
+
+plus > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+quel > que
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+temps > t
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+fera > fe
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+t > t
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+mercredi > mer
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+fais > fai
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+attention > at
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 8 
+
+où > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+marches > march
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 3 
+
+finalement > fin
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 8 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vais > va
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+y > y
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+aller > al
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+mange > mang
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+fruits > fru
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+tous > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+jours > jo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+cette > c
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+conférence > conf
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 7 
+
+était > é
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+très > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+intéressante > intér
+nbre de lettre(s) a predire : 13
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 8 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+resterai > rester
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 3 
+
+malheureusement > malh
+nbre de lettre(s) a predire : 16
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 12 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+longtemps > lon
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+aujourd > au
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+hui > h
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+connais > conna
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+réponse > rép
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+mais > m
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vais > va
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+renseigner > rens
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 7 
+
+comment > co
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+font > fo
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+dauphins > daup
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 5 
+
+pour > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+communiquer > commun
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 6 
+
+c > c
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+travail > tr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+longue > lon
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+haleine > hal
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vient > vi
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+seulement > se
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 8 
+
+d > d
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+être > ê
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+mis > mi
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+au > a
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+courant > cou
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+cela > ce
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+sera > se
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+fait > f
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+quand > q
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+poules > poul
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+auront > aur
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+dents > den
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+astres > ast
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+l > l
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ont > o
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+toujours > to
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+fascinée > fasci
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+travail > tr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+acharné > acha
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+vainc > vainc
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 0 
+
+tout > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+petits > pet
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+ruisseaux > ruis
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 6 
+
+font > fo
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+grandes > gr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+rivières > riv
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+ce > c
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+n > n
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+grave > gra
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+d > d
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+être > ê
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+en > e
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+cage > cag
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+quand > q
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+on > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+sait > sa
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+voler > vole
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+bonjour > bonj
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+m > m
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+appelle > app
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+anne > ann
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+demande > de
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+où > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+se > s
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+trouve > tr
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+trouve > tr
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+touche > tou
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+faut > f
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+travailler > trav
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 7 
+
+tous > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+jours > jo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+beaucoup > b
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 8 
+
+pour > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+y > y
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+arriver > arr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+j > j
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ai > ai
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+été > é
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+heureuse > heu
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+revoir > revo
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+au > a
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+stand > stand
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 0 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+l > l
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+autisme > auti
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+à > à
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+bruxelles > br
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 8 
+
+pourquoi > pou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+fait > f
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+toujours > to
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+si > si
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+froid > fro
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+en > e
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+belgique > be
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+pars > pars
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+en > e
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vacances > vac
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+cet > ce
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+été > é
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+quand > q
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+nous > n
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+rencontrons > renco
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 7 
+
+nous > n
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+pour > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+faire > f
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+l > l
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+évaluation > év
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 9 
+
+comment > co
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+discuter > discu
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 4 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+problèmes > pro
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+sans > sa
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+se > s
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+fâcher > fâc
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+qu > q
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+avez > ave
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+vous > v
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+envie > env
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+manger > man
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+et > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+boire > boi
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+tous > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+lundis > lund
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+vais > va
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+nager > nag
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+faire > f
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+bon > b
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+choix > cho
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+n > n
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+facile > fac
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+elles > el
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+ont > o
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+vu > vu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+beau > be
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+film > fil
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+sur > s
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+handicap > han
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+nous > n
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+sommes > som
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+d > d
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+accord > ac
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+avec > a
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+ton > ton
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 0 
+
+point > po
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+vue > vu
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+j > j
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ai > ai
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+mal > ma
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+au > a
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ventre > vent
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+voudrais > vou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+médicament > médic
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 6 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+douleur > dou
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+nous > n
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+allons > all
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+visiter > visi
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+musée > mu
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+baleines > bale
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 5 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+voudrais > vou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+pouvoir > po
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+découvrir > déco
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 6 
+
+l > l
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+australie > aus
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+dois > doi
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+choisir > cho
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+et > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+acheter > ach
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+une > u
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+nouvelle > no
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+voiture > voi
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+printemps > print
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 5 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+ma > ma
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+saison > sai
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+préférée > préfér
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 3 
+
+n > n
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+oublie > oub
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+bien > b
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+ranger > ran
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+ta > ta
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+chambre > cham
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+avant > av
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+partir > par
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+approche > ap
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+fauteuil > faut
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 5 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+boire > boi
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+ca > ca
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+gratte > gratt
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 2 
+
+j > j
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ai > ai
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+chaud > chau
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+j > j
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ai > ai
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+froid > fro
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+j > j
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ai > ai
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+mal > ma
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+suis > su
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+fatigué > fat
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+dormir > dor
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+brosser > bros
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+dents > den
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+sortir > sor
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+voudrais > vou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+changer > chan
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+chaînes > chaî
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+voudrais > vou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+mes > me
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 2 
+
+médicaments > médi
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 8 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+comprends > compre
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 4 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+chat > chat
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+sorti > sort
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+téléphone > tél
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+a > a
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+sonné > sonn
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+on > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+a > a
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+sonné > sonn
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+à > à
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+porte > por
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+y > y
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+a > a
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+problème > pro
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+sur > s
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+l > l
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+ordinateur > ord
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 8 
+
+peux > peu
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+laver > lav
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+visage > vis
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+peux > peu
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+me > m
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+mettre > me
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+lunettes > lun
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+voudrais > vou
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+aller > al
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+aux > a
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+toilettes > toil
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 6 
+
+s > s
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+plaît > plaî
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+as > as
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+passé > pas
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+un > u
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+bon > b
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+moment > mo
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+appelez > appele
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 2 
+
+pour > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+plus > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+détails > dét
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+merci > mer
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+votre > vo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+aide > ai
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+plus > p
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+beau > be
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+coucher > couc
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+soleil > sol
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+tenir > ten
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+ta > ta
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+main > mai
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+enfants > en
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+jouent > joue
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+crie > crie
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+fort > for
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+peux > peu
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+encore > e
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 6 
+
+sentir > sen
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+ta > ta
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+présence > pré
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+chien > chi
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+va > va
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+te > te
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+mordre > mord
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+ma > ma
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+mère > mè
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+fait > f
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+bons > bon
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+biscuits > bis
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+universités > univ
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 8 
+
+sont > s
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+trop > tr
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+chères > chè
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+prix > pri
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+du > d
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+gaz > gaz
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 0 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+élevé > él
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+vainqueur > vai
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+course > cour
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+tu > tu
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 0 
+
+veux > ve
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+manger > man
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+ton > ton
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 0 
+
+gâteau > gâ
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+peux > peu
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+comprendre > com
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 8 
+
+cela > ce
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+ce > c
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+phénomène > ph
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 8 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+se > s
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+produira > produi
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 3 
+
+jamais > j
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 6 
+
+cette > c
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+équation > équ
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+trop > tr
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+compliquée > compliq
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 7 / nbre de lettre(s) economisees : 4 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+difficile > dif
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 7 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+se > s
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+concentrer > concen
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 5 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+trains > train
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 2 
+
+sont > s
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+toujours > to
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+en > e
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+retard > ret
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+loyer > loy
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+payé > payé
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+au > a
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+début > dé
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+du > d
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+mois > moi
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+a > a
+nbre de lettre(s) a predire : 2
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 0 
+
+appelé > app
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+sept > sep
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+fois > f
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+cette > c
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+caméra > camé
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+prend > pre
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+belles > bel
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+photos > pho
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+nous > n
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+avons > av
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+raté > raté
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 0 
+
+votre > vo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+anniversaire > anni
+nbre de lettre(s) a predire : 13
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 9 
+
+elle > e
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+porte > por
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+trop > tr
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+maquillage > maq
+nbre de lettre(s) a predire : 11
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 8 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+tremblements > trem
+nbre de lettre(s) a predire : 13
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 9 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+terre > te
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+sont > s
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+prévisibles > prévi
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 7 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+cour > cou
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+arrière > arr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 5 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+notre > n
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+maison > ma
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+toujours > to
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 7 
+
+dans > d
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+notre > n
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+équipe > éq
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 5 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+gaspillez > gaspill
+nbre de lettre(s) a predire : 10
+nbre de lettre(s) saisie(s) : 7 / nbre de lettre(s) economisees : 3 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+votre > vo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+temps > t
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+ne > n
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+buvez > buve
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+pas > p
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+trop > tr
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+la > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+force > fo
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+avec > a
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+toi > toi
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 0 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+comme > c
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+tout > t
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+monde > m
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+il > i
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+temps > t
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+faire > f
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+du > d
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+shopping > sho
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 6 
+
+vous > v
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+devez > deve
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 2 
+
+être > ê
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+vieux > vie
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+je > j
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+déteste > détes
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 3 
+
+cuisiner > cuisi
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 4 
+
+des > d
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+tartes > tarte
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 2 
+
+gagner > gag
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+premier > pr
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+prix > pri
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+du > d
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+concours > conco
+nbre de lettre(s) a predire : 9
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 4 
+
+cette > c
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+veste > ves
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+en > e
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+cuir > cui
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+est > e
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+trop > tr
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 3 
+
+chaude > chau
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 4 / nbre de lettre(s) economisees : 3 
+
+deux > d
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+ou > o
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 2 
+
+trois > tr
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+tasses > tas
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 4 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+café > caf
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 2 
+
+le > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+propriétaire > propr
+nbre de lettre(s) a predire : 13
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 8 
+
+était > é
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 5 
+
+indisponible > indisp
+nbre de lettre(s) a predire : 13
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 7 
+
+les > 
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 4 
+
+lettres > le
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 6 
+
+de > 
+nbre de lettre(s) a predire : 3
+nbre de lettre(s) saisie(s) : 0 / nbre de lettre(s) economisees : 3 
+
+refus > ref
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 3 
+
+sont > s
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+décourageantes > décourag
+nbre de lettre(s) a predire : 15
+nbre de lettre(s) saisie(s) : 8 / nbre de lettre(s) economisees : 7 
+
+alors > al
+nbre de lettre(s) a predire : 6
+nbre de lettre(s) saisie(s) : 2 / nbre de lettre(s) economisees : 4 
+
+vous > v
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+pensez > pense
+nbre de lettre(s) a predire : 7
+nbre de lettre(s) saisie(s) : 5 / nbre de lettre(s) economisees : 2 
+
+que > q
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+vous > v
+nbre de lettre(s) a predire : 5
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 4 
+
+méritez > mérite
+nbre de lettre(s) a predire : 8
+nbre de lettre(s) saisie(s) : 6 / nbre de lettre(s) economisees : 2 
+
+une > u
+nbre de lettre(s) a predire : 4
+nbre de lettre(s) saisie(s) : 1 / nbre de lettre(s) economisees : 3 
+
+augmentation > aug
+nbre de lettre(s) a predire : 12
+nbre de lettre(s) saisie(s) : 3 / nbre de lettre(s) economisees : 9 
+
+========== 
+
+ki : 1326
+ks : 555
+ksr : 43.80041828503137 % 
+
+nbre total de lettres economisees : 2021
+taux d'economie de saisie : 60.382432028682395 % 
+
+kn : 3347
+nbre total de mots : 636
+hit ratio : 87.26415094339622 %
