@@ -1,0 +1,66 @@
+Les résultats des simulateurs sont affichés à la fin de chaque fichier.
+
+En règle générale, la structure des fichiers logs est la suivante :
+- Numérotation 1 : fichiers obtenus avec le simulateur de Vescovi (presage_simulator.exe)
+- Numérotation 2 : fichiers obtenus en traitant les fichiers logs avec notre simulateur (presage_simulator_2.py)
+
+Hyp 0 : exemple (on a sonné à la porte)
+
+Hyp 1 : corpus (avec trigramme, 0,01 / 0,1 / 0,89, 5 prédictions)
+
+Corpus de test A
+test01 / 02 : Google Books Ngram (corpus d'entrainement)
+03 / 04 : Perso
+05 / 06 : À se tordre
+
+Corpus de test B
+07 / 08 : Google Books Ngram (sur Perso)
+09 / 10 : À se tordre (sur Perso)
+11 / 12 : Perso (sur À se tordre)
+
+Hyp 2 : prédicteurs (avec corpus de test A, 5 prédictions)
+
+a-Ngram
+test1agram / test1bgram : unigramme (1), Google Books Ngram (corpus d'entrainement)
+test2agram / test2bgram : bigramme (0,01 / 0,99), Google Books Ngram
+test3agram / test3bgram : unigramme (1), Perso
+test4agram / test4bgram : bigramme (0,01 / 0,99), Perso
+test5agram / test5bgram : unigramme (1), À se tordre
+test6agram / test6bgram : bigramme (0,01 / 0,99), À se tordre
+
+b-Smoothing (avec Google Books Ngram comme corpus d'entrainement, trigramme)
+test25 / 26 : 0,7 / 0,2 / 0,1
+27 / 28 : 0,5 / 0,3 / 0,2
+29 / 30 : 0,4 / 0,3 / 0,3
+33 / 34 : 0,3 / 0,3 / 0,4
+35 / 36 : 0,2 / 0,3 / 0,5
+37 / 38 : 0,1 / 0,2 / 0,7
+
+c-User (avec Google Books Ngram comme corpus d'entrainement, trigramme, 0,01 / 0,1 / 0,89)
+testu1 / testu2 : Perso
+testu3 / testu4 : Blog
+testu5 / testu6 : Interview
+
+d-Arpa (trigramme)
+testarp1a / testarp1aa : Google Books Ngram, Good-Turing
+testarp1c / testarp1cc : Google Books Ngram, Absolute-Discounting
+testarp1d / testarp1dd : Google Books Ngram, Witten-Bell
+testarp2a / testarp2aa : Perso, Good-Turing
+testarp2b / testarp2bb : Perso, Linear discounting
+testarp2c / testarp2cc : Perso, Absolute-Discounting
+testarp2d / testarp2dd : Perso, Witten-Bell
+testarp3a / testarp3aa : À se tordre, Good-Turing
+testarp3b / testarp3bb : À se tordre, Linear discounting
+testarp3c / testarp3cc : À se tordre, Absolute-Discounting
+testarp4d / testarp4dd : À se tordre, Witten-Bell
+
+Hyp 3 : prédictions (avec Google Books Ngram comme corpus d'entrainement, corpus de test A, trigramme, 0,01 / 0,1 / 0,89)
+
+testb31 / testb32 : 1 prédiction
+33 / 34 : 3 prédictions
+37 / 38 : 7 prédictions
+39 / 40 : 9 prédictions
+
+Hyp 4 : interface utilisateur
+
+testz1 / testz2 : Mixte (avec Google Books Ngram comme corpus d'entrainement, Perso comme corpus d'entrainement user, corpus de test A, trigramme, 0,01 / 0,1 / 0,89, 9 prédictions)
